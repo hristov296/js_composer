@@ -30,6 +30,7 @@ $custom_tag = 'script';
 		id="vc_settings-<?php echo esc_attr( $tab ); ?>"
 		data-vc-ui-element="settings-tab-<?php echo esc_attr( $tab ); ?>"
 		class="<?php echo esc_attr( $classes ); ?>"
+		<?php echo apply_filters( 'vc_setting-tab-form-' . esc_attr( $tab ), '' ); ?>
 >
 	<?php settings_fields( vc_settings()->getOptionGroup() . '_' . $tab ); ?>
 	<?php do_settings_sections( vc_settings()->page() . '_' . $tab ); ?>

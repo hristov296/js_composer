@@ -43,4 +43,4 @@ if ( strlen( $height ) > 0 ) {
 }
 $output = '<div class="' . esc_attr( $css_class ) . '"' . ( empty( $css_style ) ? '' : ' style="' . esc_attr( $css_style ) . '"' ) . '><div class="' . esc_attr( $css_class_mini ) . '">' . do_shortcode( $content ) . '</div><div class="vc_clearfix"></div></div>';
 
-return $output;
+echo $output;

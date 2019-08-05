@@ -364,7 +364,9 @@ class Vc_Base {
 			$post_custom_css = get_metadata( 'post', $id, '_wpb_post_custom_css', true );
 			if ( ! empty( $post_custom_css ) ) {
 				$post_custom_css = wp_strip_all_tags( $post_custom_css );
-				wp_add_inline_style( 'js_composer_front', $post_custom_css );
+				echo '<style type="text/css" data-type="vc_custom-css">';
+				echo $post_custom_css;
+				echo '</style>';
 			}
 		}
 	}
@@ -400,7 +402,9 @@ class Vc_Base {
 			$shortcodes_custom_css = get_metadata( 'post', $id, '_wpb_shortcodes_custom_css', true );
 			if ( ! empty( $shortcodes_custom_css ) ) {
 				$shortcodes_custom_css = wp_strip_all_tags( $shortcodes_custom_css );
-				wp_add_inline_style( 'js_composer_front', $shortcodes_custom_css );
+				echo '<style type="text/css" data-type="vc_shortcodes-custom-css">';
+				echo $shortcodes_custom_css;
+				echo '</style>';
 			}
 		}
 	}

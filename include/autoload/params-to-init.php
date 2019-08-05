@@ -6,7 +6,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 add_filter( 'vc_edit_form_fields_optional_params', 'vc_edit_for_fields_add_optional_params' );
 
 if ( 'vc_edit_form' === vc_post_param( 'action' ) ) {
-	add_filter( 'vc_edit_form_fields_after_render', 'vc_output_required_params_to_init' );
+	add_action( 'vc_edit_form_fields_after_render', 'vc_output_required_params_to_init' );
 	add_filter( 'vc_edit_form_fields_optional_params', 'vc_edit_for_fields_add_optional_params' );
 }
 
@@ -48,7 +48,7 @@ function vc_edit_for_fields_add_optional_params( $params ) {
 	return $params;
 }
 
-function vc_output_required_params_to_init( $output ) {
+function vc_output_required_params_to_init() {
 	$params = WpbakeryShortcodeParams::getRequiredInitParams();
 
 	$js_array = array();
@@ -61,9 +61,9 @@ function vc_output_required_params_to_init( $output ) {
 		window.vc.required_params_to_init = [' . implode( ',', $js_array ) . '];
 	}';
 	$custom_tag = 'script';
-	$output .= '<' . $custom_tag . '>' . $data . '</' . $custom_tag . '>';
+	$output = '<' . $custom_tag . '>' . $data . '</' . $custom_tag . '>';
 
-	return $output;
+	echo $output;
 }
 
 add_action( 'wp_ajax_wpb_gallery_html', 'vc_gallery_html' );

@@ -243,9 +243,8 @@ class Vc_Edit_Form_Fields {
 		$output .= $this->enqueueScripts();
 
 		// @codingStandardsIgnoreLine
-		$output = apply_filters( 'vc_edit_form_fields_after_render', $output );
-
-		return $output;
+		echo $output;
+		do_action( 'vc_edit_form_fields_after_render' );
 	}
 
 	/**

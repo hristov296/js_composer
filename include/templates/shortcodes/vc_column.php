@@ -96,4 +96,4 @@ $output .= '</div>';
 $output .= '</div>';
 $output .= '</div>';
 
-return $output;
+echo $output;

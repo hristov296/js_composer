@@ -9,7 +9,7 @@ $saveAsTemplateElements = apply_filters( 'vc_popup_save_as_template_elements', a
 $custom_tag = 'script'; // TODO: Remove this file after 6.2 when BC is completed
 ?>
 <div class="vc_ui-list-bar-group">
-	<?php if ( in_array( $shortcode_name, $saveAsTemplateElements, true ) && vc_user_access()->part( 'templates' )->checkStateAny( true, null )->get() ) : ?>
+	<?php if ( in_array( $shortcode_name, $saveAsTemplateElements ) && vc_user_access()->part( 'templates' )->checkStateAny( true, null )->get() ) : ?>
 		<ul class="vc_ui-list-bar">
 			<li class="vc_ui-list-bar-item">
 				<button type="button" class="vc_ui-list-bar-item-trigger" data-vc-save-template>
@@ -18,7 +18,7 @@ $custom_tag = 'script'; // TODO: Remove this file after 6.2 when BC is completed
 			</li>
 		</ul>
 	<?php endif; ?>
-	<?php if ( ! in_array( $shortcode_name, $saveAsTemplateElements, true ) && vc_user_access()->part( 'presets' )->checkStateAny( true, null )->get() ) : ?>
+	<?php if ( ! in_array( $shortcode_name, $saveAsTemplateElements ) && vc_user_access()->part( 'presets' )->checkStateAny( true, null )->get() ) : ?>
 		<ul class="vc_ui-list-bar">
 			<li class="vc_ui-list-bar-item">
 				<button type="button" class="vc_ui-list-bar-item-trigger" data-vc-save-settings-preset>

@@ -24,4 +24,4 @@ if ( ! empty( $background_color ) ) {
 
 $output = '<div class="vc_gitem-block' . esc_attr( $background_color ) . ( strlen( $el_class ) > 0 ? ' ' . esc_attr( $el_class ) : '' ) . ' vc_gitem-float-' . esc_attr( $float ) . '">' . do_shortcode( $content ) . '</div>';
 
-return $output;
+echo $output;

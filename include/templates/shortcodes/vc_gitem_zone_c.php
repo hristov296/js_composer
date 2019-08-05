@@ -32,4 +32,4 @@ $output = '';
 
 $output .= '<div class="' . esc_attr( $css_class ) . '"><div class="' . esc_attr( $css_class_mini ) . '">' . do_shortcode( $content ) . '</div></div>';
 
-return $output;
+echo $output;

@@ -993,9 +993,15 @@ function vc_include_template( $template, $variables = array(), $once = false ) {
  */
 function vc_get_template( $template, $variables = array(), $once = false ) {
 	ob_start();
-	vc_include_template( $template, $variables, $once );
+	$output = vc_include_template( $template, $variables, $once );
 
-	return ob_get_clean();
+	if ( 1 === $output ) {
+		$output = ob_get_contents();
+	}
+
+	ob_end_clean();
+
+	return $output;
 }
 
 /**
@@ -1184,10 +1190,15 @@ function vc_taxonomies_types( $post_type = null ) {
 	global $vc_taxonomies_types;
 	if ( is_null( $vc_taxonomies_types ) || $post_type ) {
 		$query = array( 'public' => true );
-		if ( $post_type ) {
-			$query['object_type'] = array( $post_type );
-		}
 		$vc_taxonomies_types = get_taxonomies( $query, 'objects' );
+		if ( ! empty( $post_type ) && is_array( $vc_taxonomies_types ) ) {
+			foreach ( $vc_taxonomies_types as $key => $taxonomy ) {
+				$arr = (array) $taxonomy;
+				if ( isset( $arr['object_type'] ) && ! in_array( $post_type, $arr['object_type'] ) ) {
+					unset( $vc_taxonomies_types[ $key ] );
+				}
+			}
+		}
 	}
 
 	return $vc_taxonomies_types;

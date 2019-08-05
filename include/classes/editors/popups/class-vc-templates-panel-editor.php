@@ -674,8 +674,7 @@ class Vc_Templates_Panel_Editor {
 		if ( $return ) {
 			return trim( $data['content'] );
 		} else {
-			// @codingStandardsIgnoreLine
-			print esc_html( trim( $data['content'] ) );
+			print trim( $data['content'] );
 			die;
 		}
 	}

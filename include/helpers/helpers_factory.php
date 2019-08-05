@@ -173,7 +173,7 @@ if ( ! function_exists( 'vc_post_param' ) ) {
 			check_ajax_referer();
 		}
 
-		return isset( $_POST[ $param ] ) ? wp_unslash( $_POST[ $param ] ) : $default;
+		return isset( $_POST[ $param ] ) ? $_POST[ $param ] : $default;
 	}
 }
 if ( ! function_exists( 'vc_get_param' ) ) {
@@ -195,7 +195,7 @@ if ( ! function_exists( 'vc_get_param' ) ) {
 		}
 
 		// @codingStandardsIgnoreLine
-		return isset( $_GET[ $param ] ) ? wp_unslash( $_GET[ $param ] ) : $default;
+		return isset( $_GET[ $param ] ) ? $_GET[ $param ] : $default;
 	}
 }
 if ( ! function_exists( 'vc_request_param' ) ) {
@@ -217,7 +217,7 @@ if ( ! function_exists( 'vc_request_param' ) ) {
 		}
 
 		// @codingStandardsIgnoreLine
-		return isset( $_REQUEST[ $param ] ) ? wp_unslash( $_REQUEST[ $param ] ) : $default;
+		return isset( $_REQUEST[ $param ] ) ? $_REQUEST[ $param ] : $default;
 	}
 }
 if ( ! function_exists( 'vc_is_frontend_editor' ) ) {

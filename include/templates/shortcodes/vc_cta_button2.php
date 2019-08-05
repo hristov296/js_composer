@@ -65,4 +65,4 @@ if ( '' !== $link && 'bottom' === $position ) {
 }
 $output .= '</div>';
 
-return $output;
+echo $output;

@@ -1,3 +1,21 @@
+17.07.2019 - ver 6.0.5
+  - Fix: LESS vendor folder available
+  - Fix: All Media in Text Block works properly
+
+15.07.2019 - ver 6.0.4
+  - Fix: Element API works properly for 3rd party elements
+  - Fix: Post grid filter displayed properly
+  - Fix: Custom CSS editor does not remove "\"
+  - Fix: Directory name typo for Instagram filter files corrected
+  - Fix: Templates import API does work correctly
+  - Fix: Row design options settings for elements in templates works properly
+  - Fix: WooCommerce cart element works properly
+  - Fix: Option "Save as a template" for a row is available
+  - Fix: Elements edit form displayed correctly
+  - Fix: Warning message for PHP function `htmlspecialchars`
+  - Fix: Custom post types taxonomies work in Post Grid element
+  - Fix: Revolution Slider output content properly
+
 31.05.2019 - ver 6.0.3
   - Update: Init action priority is changed from 9 to 11
   - Update: Allow return in shortcode templates
