@@ -132,6 +132,7 @@ class Vc_Vendor_Woocommerce {
 			esc_html__( 'Menu order', 'js_composer' ) => 'menu_order',
 			esc_html__( 'Menu order & title', 'js_composer' ) => 'menu_order title',
 			esc_html__( 'Include', 'js_composer' ) => 'include',
+			esc_html__( 'Custom post__in', 'js_composer' ) => 'post__in',
 		);
 
 		$order_way_values = array(

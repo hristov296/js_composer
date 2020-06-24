@@ -101,12 +101,12 @@
 .vc_float-grid-columns-rtl(@class) {
   .vc_col-rtl(@index) when (@index = 1) {
     // initial
-    @item: ~".rtl .vc_rtl-columns-reverse .vc_col-@{class}-@{index}";
+    @item: ~"[dir=rtl] .vc_rtl-columns-reverse .vc_col-@{class}-@{index}";
     .vc_col-rtl((@index + 1), @item);
   }
   .vc_col-rtl(@index, @list) when (@index =< @grid-columns) {
     // general
-    @item: ~".rtl .vc_rtl-columns-reverse .vc_col-@{class}-@{index}";
+    @item: ~"[dir=rtl] .vc_rtl-columns-reverse .vc_col-@{class}-@{index}";
     .vc_col-rtl((@index + 1), ~"@{list}, @{item}");
   }
   .vc_col-rtl(@index, @list) when (@index > @grid-columns) {

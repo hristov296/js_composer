@@ -262,6 +262,10 @@ abstract class WPBakeryShortCode extends WPBakeryVisualComposerAbstract {
 		}
 		$this->findShortcodeTemplate();
 		if ( $this->html_template && file_exists( $this->html_template ) ) {
+			if ( strpos( $this->html_template, WPB_PLUGIN_DIR ) === false ) {
+				// Modified or new
+				Vc_Modifications::$modified = true;
+			}
 			ob_start();
 			/** @var string $content - used inside template */
 			$output = require $this->html_template;

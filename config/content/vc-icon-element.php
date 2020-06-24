@@ -15,7 +15,7 @@ function vc_icon_element_params() {
 				'type' => 'dropdown',
 				'heading' => esc_html__( 'Icon library', 'js_composer' ),
 				'value' => array(
-					esc_html__( 'Font Awesome', 'js_composer' ) => 'fontawesome',
+					esc_html__( 'Font Awesome 5', 'js_composer' ) => 'fontawesome',
 					esc_html__( 'Open Iconic', 'js_composer' ) => 'openiconic',
 					esc_html__( 'Typicons', 'js_composer' ) => 'typicons',
 					esc_html__( 'Entypo', 'js_composer' ) => 'entypo',
@@ -31,12 +31,12 @@ function vc_icon_element_params() {
 				'type' => 'iconpicker',
 				'heading' => esc_html__( 'Icon', 'js_composer' ),
 				'param_name' => 'icon_fontawesome',
-				'value' => 'fa fa-adjust',
+				'value' => 'fas fa-adjust',
 				// default value to backend editor admin_label
 				'settings' => array(
 					'emptyIcon' => false,
 					// default true, display an "EMPTY" icon?
-					'iconsPerPage' => 4000,
+					'iconsPerPage' => 500,
 					// default 100, how many icons per/page to display, we use (big number) to display all icons in single page
 				),
 				'dependency' => array(

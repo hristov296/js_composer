@@ -19,7 +19,8 @@ function vc_init_vendor_gravity_forms() {
 
 function vc_vendor_gravityforms_load() {
 	$gravity_forms_array[ esc_html__( 'No Gravity forms found.', 'js_composer' ) ] = '';
-	if ( class_exists( 'RGFormsModel' ) ) {
+	$gravity_forms = array();
+	if ( class_exists( 'RGFormsModel' ) && 'vc_edit_form' === vc_request_param( 'action' ) ) {
 		/** @noinspection PhpUndefinedClassInspection */
 		$gravity_forms = RGFormsModel::get_forms( 1, 'title' );
 		if ( $gravity_forms ) {
@@ -94,8 +95,7 @@ function vc_vendor_gravityforms_load() {
 				'type' => 'textfield',
 				'heading' => esc_html__( 'Tab Index', 'js_composer' ),
 				'param_name' => 'tabindex',
-				'description' => esc_html__( '(Optional) Specify the starting tab index for the fields of this form. Leave blank if you\'re not sure what this is.',
-				'js_composer' ),
+				'description' => esc_html__( '(Optional) Specify the starting tab index for the fields of this form. Leave blank if you\'re not sure what this is.', 'js_composer' ),
 				'dependency' => array(
 					'element' => 'id',
 					'not_empty' => true,

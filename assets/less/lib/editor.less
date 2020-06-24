@@ -49,3 +49,26 @@
   right: -10000px;
   left: auto;
 }
+
+[dir="rtl"] .vc_control.column_move, [dir=rtl] .vc_control .vc-controls-move {
+  float: right;
+}
+
+[dir="rtl"] .vc_controls-row .column_add, [dir=rtl] .vc_controls-row .vc_control-add-column {
+  float: right;
+}
+
+[dir="rtl"] .vc_controls-row .vc_row_edit_clone_delete .vc_control {
+  float: left;
+}
+
+[dir="rtl"] {
+  .vc_controls-row {
+    .vc_row_layouts, .vc_control-row-layout {
+      &:hover {
+        left: inherit;
+        right: 76px;
+      }
+    }
+  }
+}

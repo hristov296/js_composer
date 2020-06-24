@@ -9,7 +9,9 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @since 4.5
  */
 function vc_woocommerce_add_to_cart_script() {
-	wp_enqueue_script( 'vc_woocommerce-add-to-cart-js', vc_asset_url( 'js/vendors/woocommerce-add-to-cart.js' ), array( 'wc-add-to-cart' ), WPB_VC_VERSION );
+	if ( 'yes' === get_option( 'woocommerce_enable_ajax_add_to_cart' ) ) {
+		wp_enqueue_script( 'vc_woocommerce-add-to-cart-js', vc_asset_url( 'js/vendors/woocommerce-add-to-cart.js' ), array( 'wc-add-to-cart' ), WPB_VC_VERSION );
+	}
 }
 
 /**
@@ -23,10 +25,10 @@ function vc_init_vendor_woocommerce() {
 	if ( is_plugin_active( 'woocommerce/woocommerce.php' ) || class_exists( 'WooCommerce' ) ) {
 		require_once vc_path_dir( 'VENDORS_DIR', 'plugins/class-vc-vendor-woocommerce.php' );
 		$vendor = new Vc_Vendor_Woocommerce();
-		add_action( 'vc_after_set_mode', array(
+		add_action( 'vc_before_init', array(
 			$vendor,
 			'load',
-		) );
+		), 0 );
 		require_once vc_path_dir( 'VENDORS_DIR', 'plugins/woocommerce/grid-item-filters.php' );
 		// Add 'add to card' link to the list of Add link.
 		add_filter( 'vc_gitem_add_link_param', 'vc_gitem_add_link_param_woocommerce' );

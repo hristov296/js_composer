@@ -164,7 +164,6 @@ class Vc_Frontend_Editor {
 		if ( 'vc_load_shortcode' === vc_request_param( 'action' ) ) {
 			return;
 		}
-		! defined( 'CONCATENATE_SCRIPTS' ) && define( 'CONCATENATE_SCRIPTS', false );
 		visual_composer()->shared_templates->init();
 		add_filter( 'the_title', array(
 			$this,
@@ -634,7 +633,6 @@ class Vc_Frontend_Editor {
 			$action = vc_post_param( 'action' );
 			if ( 'vc_load_shortcode' === $action ) {
 				$output = '';
-				! defined( 'CONCATENATE_SCRIPTS' ) && define( 'CONCATENATE_SCRIPTS', false );
 				ob_start();
 				$this->setPost();
 				$shortcodes = (array) vc_post_param( 'shortcodes' );
@@ -670,7 +668,11 @@ class Vc_Frontend_Editor {
 		$protocol = substr( $sp, 0, strpos( $sp, '/' ) ) . ( ( $ssl ) ? 's' : '' );
 		$port = $s['SERVER_PORT'];
 		$port = ( ( ! $ssl && '80' === $port ) || ( $ssl && '443' === $port ) ) ? '' : ':' . $port;
-		$host = isset( $s['HTTP_X_FORWARDED_HOST'] ) ? $s['HTTP_X_FORWARDED_HOST'] : isset( $s['HTTP_HOST'] ) ? $s['HTTP_HOST'] : $s['SERVER_NAME'];
+		if ( isset( $s['HTTP_X_FORWARDED_HOST'] ) ) {
+			$host = $s['HTTP_X_FORWARDED_HOST'];
+		} else {
+			$host = ( isset( $s['HTTP_HOST'] ) ? $s['HTTP_HOST'] : $s['SERVER_NAME'] );
+		}
 
 		return $protocol . '://' . $host . $port . $s['REQUEST_URI'];
 	}
@@ -808,8 +810,8 @@ class Vc_Frontend_Editor {
 	public function registerCss() {
 		wp_register_style( 'ui-custom-theme', vc_asset_url( 'css/ui-custom-theme/jquery-ui-less.custom.min.css' ), false, WPB_VC_VERSION );
 		wp_register_style( 'vc_animate-css', vc_asset_url( 'lib/bower/animate-css/animate.min.css' ), false, WPB_VC_VERSION, 'screen' );
-		wp_register_style( 'font-awesome', vc_asset_url( 'lib/bower/font-awesome/css/font-awesome.min.css' ), false, WPB_VC_VERSION, 'screen' );
-
+		wp_register_style( 'vc_font_awesome_5_shims', vc_asset_url( 'lib/bower/font-awesome/css/v4-shims.min.css' ), array(), WPB_VC_VERSION );
+		wp_register_style( 'vc_font_awesome_5', vc_asset_url( 'lib/bower/font-awesome/css/all.min.css' ), array( 'vc_font_awesome_5_shims' ), WPB_VC_VERSION );
 		wp_register_style( 'vc_inline_css', vc_asset_url( 'css/js_composer_frontend_editor.min.css' ), array(), WPB_VC_VERSION );
 
 	}
@@ -822,7 +824,7 @@ class Vc_Frontend_Editor {
 		$dependencies = array(
 			'ui-custom-theme',
 			'vc_animate-css',
-			'font-awesome',
+			'vc_font_awesome_5',
 			// 'wpb_jscomposer_autosuggest',
 			'vc_inline_css',
 		);

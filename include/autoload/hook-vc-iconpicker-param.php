@@ -42,7 +42,8 @@ add_action( 'vc_frontend_editor_enqueue_js_css', 'vc_iconpicker_editor_jscss' );
  */
 function vc_iconpicker_base_register_css() {
 	// Vc Icon picker fonts:
-	wp_register_style( 'font-awesome', vc_asset_url( 'lib/bower/font-awesome/css/font-awesome.min.css' ), array(), WPB_VC_VERSION );
+	wp_register_style( 'vc_font_awesome_5_shims', vc_asset_url( 'lib/bower/font-awesome/css/v4-shims.min.css' ), array(), WPB_VC_VERSION );
+	wp_register_style( 'vc_font_awesome_5', vc_asset_url( 'lib/bower/font-awesome/css/all.min.css' ), array( 'vc_font_awesome_5_shims' ), WPB_VC_VERSION );
 	wp_register_style( 'vc_typicons', vc_asset_url( 'css/lib/typicons/src/font/typicons.min.css' ), false, WPB_VC_VERSION );
 	wp_register_style( 'vc_openiconic', vc_asset_url( 'css/lib/vc-open-iconic/vc_openiconic.min.css' ), false, WPB_VC_VERSION );
 	wp_register_style( 'vc_linecons', vc_asset_url( 'css/lib/vc-linecons/vc_linecons_icons.min.css' ), false, WPB_VC_VERSION );
@@ -77,7 +78,7 @@ function vc_iconpicker_editor_jscss() {
 	wp_enqueue_style( 'vc-icon-picker-main-css-theme' );
 
 	// Fonts
-	wp_enqueue_style( 'font-awesome' );
+	wp_enqueue_style( 'vc_font_awesome_5' );
 	wp_enqueue_style( 'vc_openiconic' );
 	wp_enqueue_style( 'vc_typicons' );
 	wp_enqueue_style( 'vc_entypo' );

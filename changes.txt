@@ -1,3 +1,36 @@
+20.04.2020 - ver 6.2.0
+  - Update: Performance improvements for the editor
+  - Update: Filter for ajax grid rendering added
+  - Update: Filters for post_custom_css and shortcodes_custom_css added
+  - Update: NL translation added for the plugin
+  - Update: BR translation added for the plugin
+  - Update: Standards and code styles updated
+  - Update: Classic and Gutenberg editor toggle updated
+  - Update: Portrait video support added
+  - Compatibility: Rank Math SEO compatibility improved
+  - Fix: Ajax add to cart works properly
+  - Fix: Plugin update works properly with multi-language version
+  - Fix: Sorted_list attribute works properly
+  - Fix: Shop Manager role works properly with the plugin
+  - Fix: Post id works properly in the preview mode
+  - Fix: Loading configuration works properly
+  - Fix: Order by post works properly
+  - Fix: oEmbed works properly in text blocks
+  - Fix: addShortcodesCustomCss works properly
+
+13.12.2019 - ver 6.1.0
+  - Added: Catalan, Ukrainian, Hungarian translations
+  - Update: WordPress 5.3 Compatibility
+  - Update: FontAwesome update to 5.10.2
+  - Update: loop attribute not found rows and order by relevance
+  - Update: PrettyPhoto https support
+  - Fix: RTL controls on backend
+  - Fix: RTL column reverse
+  - Fix: Disabled post revisions desing options
+  - Fix: Save row/section as template
+  - Fix: HoverBox improvements
+  - Remove: IE9 support
+
 17.07.2019 - ver 6.0.5
   - Fix: LESS vendor folder available
   - Fix: All Media in Text Block works properly

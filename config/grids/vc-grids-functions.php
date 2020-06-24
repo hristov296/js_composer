@@ -61,7 +61,7 @@ function vc_autocomplete_taxonomies_field_search( $search_string ) {
  *
  * @return string
  */
-function vc_search_by_title_only( $search, &$wp_query ) {
+function vc_search_by_title_only( $search, $wp_query ) {
 	global $wpdb;
 	if ( empty( $search ) ) {
 		return $search;
@@ -75,7 +75,7 @@ function vc_search_by_title_only( $search, &$wp_query ) {
 		foreach ( (array) $q['search_terms'] as $term ) {
 			$term = $wpdb->esc_like( $term );
 			$like = $n . $term . $n;
-			$search .= $wpdb->prepare( "%s ($wpdb->posts.post_title LIKE %s)", $searchand, $like );
+			$search .= $searchand . $wpdb->prepare( "($wpdb->posts.post_title LIKE %s)", $like );
 			$searchand = ' AND ';
 		}
 		if ( ! empty( $search ) ) {

@@ -40,7 +40,7 @@ return array(
 					'params' => array(
 						'message_box_color' => 'info',
 						'icon_type' => 'fontawesome',
-						'icon_fontawesome' => 'fa fa-info-circle',
+						'icon_fontawesome' => 'fas fa-info-circle',
 					),
 				),
 				array(
@@ -49,7 +49,7 @@ return array(
 					'params' => array(
 						'message_box_color' => 'warning',
 						'icon_type' => 'fontawesome',
-						'icon_fontawesome' => 'fa fa-exclamation-triangle',
+						'icon_fontawesome' => 'fas fa-exclamation-triangle',
 					),
 				),
 				array(
@@ -58,7 +58,7 @@ return array(
 					'params' => array(
 						'message_box_color' => 'success',
 						'icon_type' => 'fontawesome',
-						'icon_fontawesome' => 'fa fa-check',
+						'icon_fontawesome' => 'fas fa-check',
 					),
 				),
 				array(
@@ -67,7 +67,7 @@ return array(
 					'params' => array(
 						'message_box_color' => 'danger',
 						'icon_type' => 'fontawesome',
-						'icon_fontawesome' => 'fa fa-times',
+						'icon_fontawesome' => 'fas fa-times',
 					),
 				),
 				array(
@@ -146,7 +146,7 @@ return array(
 			'type' => 'dropdown',
 			'heading' => esc_html__( 'Icon library', 'js_composer' ),
 			'value' => array(
-				esc_html__( 'Font Awesome', 'js_composer' ) => 'fontawesome',
+				esc_html__( 'Font Awesome 5', 'js_composer' ) => 'fontawesome',
 				esc_html__( 'Open Iconic', 'js_composer' ) => 'openiconic',
 				esc_html__( 'Typicons', 'js_composer' ) => 'typicons',
 				esc_html__( 'Entypo', 'js_composer' ) => 'entypo',
@@ -155,24 +155,24 @@ return array(
 				esc_html__( 'Mono Social', 'js_composer' ) => 'monosocial',
 			),
 			'param_name' => 'icon_type',
-			'description' => esc_html__( 'Select icon library.', 'js_composer' ),
+			'description' => esc_html__( 'Choose icon library.', 'js_composer' ),
 		),
 		array(
 			'type' => 'iconpicker',
 			'heading' => esc_html__( 'Icon', 'js_composer' ),
 			'param_name' => 'icon_fontawesome',
-			'value' => 'fa fa-info-circle',
+			'value' => 'fas fa-info-circle',
 			'settings' => array(
 				'emptyIcon' => false,
 				// default true, display an "EMPTY" icon?
-				'iconsPerPage' => 4000,
+				'iconsPerPage' => 500,
 				// default 100, how many icons per/page to display
 			),
 			'dependency' => array(
 				'element' => 'icon_type',
 				'value' => 'fontawesome',
 			),
-			'description' => esc_html__( 'Select icon from library.', 'js_composer' ),
+			'description' => esc_html__( 'Choose icon from library.', 'js_composer' ),
 		),
 		array(
 			'type' => 'iconpicker',
@@ -189,7 +189,7 @@ return array(
 				'element' => 'icon_type',
 				'value' => 'openiconic',
 			),
-			'description' => esc_html__( 'Select icon from library.', 'js_composer' ),
+			'description' => esc_html__( 'Choose icon from library.', 'js_composer' ),
 		),
 		array(
 			'type' => 'iconpicker',
@@ -206,7 +206,7 @@ return array(
 				'element' => 'icon_type',
 				'value' => 'typicons',
 			),
-			'description' => esc_html__( 'Select icon from library.', 'js_composer' ),
+			'description' => esc_html__( 'Choose icon from library.', 'js_composer' ),
 		),
 		array(
 			'type' => 'iconpicker',
@@ -239,7 +239,7 @@ return array(
 				'element' => 'icon_type',
 				'value' => 'linecons',
 			),
-			'description' => esc_html__( 'Select icon from library.', 'js_composer' ),
+			'description' => esc_html__( 'Choose icon from library.', 'js_composer' ),
 		),
 		array(
 			'type' => 'iconpicker',
@@ -255,7 +255,7 @@ return array(
 				'element' => 'icon_type',
 				'value' => 'pixelicons',
 			),
-			'description' => esc_html__( 'Select icon from library.', 'js_composer' ),
+			'description' => esc_html__( 'Choose icon from library.', 'js_composer' ),
 		),
 		array(
 			'type' => 'iconpicker',
@@ -274,7 +274,7 @@ return array(
 				'element' => 'icon_type',
 				'value' => 'monosocial',
 			),
-			'description' => esc_html__( 'Select icon from library.', 'js_composer' ),
+			'description' => esc_html__( 'Choose icon from library.', 'js_composer' ),
 		),
 		array(
 			'type' => 'textarea_html',

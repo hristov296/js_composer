@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WPBakery Page Builder\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-02 14:24+0300\n"
+"POT-Creation-Date: 2020-04-09 14:53+0300\n"
 "PO-Revision-Date: 2017-10-10 14:30+0300\n"
 "Last-Translator: Michael M <hello@wpbakery.com>\n"
 "Language-Team: WPBakery\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__;esc_attr_e;esc_html_e\n"
 "X-Poedit-Basepath: ..\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.4\n"
 "X-Poedit-SearchPath-0: ./config/.\n"
 "X-Poedit-SearchPath-1: ./include/.\n"
 
@@ -117,7 +117,7 @@ msgstr ""
 #: config/./content/shortcode-vc-separator.php:46
 #: config/./content/shortcode-vc-text-separator.php:100
 #: config/./content/shortcode-vc-toggle.php:48
-#: config/./grids/class-vc-grids-common.php:413
+#: config/./grids/class-vc-grids-common.php:415
 #: config/./tta/shortcode-vc-tta-accordion.php:33
 #: config/./tta/shortcode-vc-tta-tabs.php:33
 #: config/./tta/shortcode-vc-tta-tour.php:33
@@ -287,9 +287,9 @@ msgstr ""
 #: config/./content/shortcode-vc-hoverbox.php:152
 #: config/./content/shortcode-vc-message.php:132
 #: config/./content/vc-icon-element.php:187
-#: config/./grids/class-vc-grids-common.php:416
-#: config/./grids/class-vc-grids-common.php:501
-#: config/./grids/class-vc-grids-common.php:874
+#: config/./grids/class-vc-grids-common.php:418
+#: config/./grids/class-vc-grids-common.php:503
+#: config/./grids/class-vc-grids-common.php:876
 #: config/./tta/shortcode-vc-tta-accordion.php:40
 #: config/./tta/shortcode-vc-tta-tabs.php:40
 #: config/./tta/shortcode-vc-tta-tour.php:40
@@ -333,7 +333,7 @@ msgstr ""
 #: config/./deprecated/shortcode-vc-button2.php:53
 #: config/./deprecated/shortcode-vc-cta-button.php:52
 #: config/./deprecated/shortcode-vc-cta-button2.php:85
-#: config/./grids/class-vc-grids-common.php:462
+#: config/./grids/class-vc-grids-common.php:464
 #: config/./tta/shortcode-vc-tta-accordion.php:52
 #: config/./tta/shortcode-vc-tta-tabs.php:50
 #: config/./tta/shortcode-vc-tta-tour.php:50
@@ -346,9 +346,9 @@ msgstr ""
 #: config/./deprecated/shortcode-vc-button2.php:56
 #: config/./deprecated/shortcode-vc-cta-button.php:55
 #: config/./deprecated/shortcode-vc-cta-button2.php:88
-#: config/./grids/class-vc-grids-common.php:719
-#: config/./grids/class-vc-grids-common.php:848
-#: config/./grids/class-vc-grids-common.php:1079
+#: config/./grids/class-vc-grids-common.php:721
+#: config/./grids/class-vc-grids-common.php:850
+#: config/./grids/class-vc-grids-common.php:1081
 msgid "Select button color."
 msgstr ""
 
@@ -372,7 +372,7 @@ msgstr ""
 #: config/./content/shortcode-vc-video.php:58
 #: config/./content/shortcode-vc-zigzag.php:34
 #: config/./deprecated/shortcode-vc-button2.php:34
-#: config/./grids/class-vc-grids-common.php:446
+#: config/./grids/class-vc-grids-common.php:448
 #: config/./tta/shortcode-vc-tta-accordion.php:110
 #: config/./tta/shortcode-vc-tta-tabs.php:121
 #: config/./tta/shortcode-vc-tta-tour.php:121
@@ -389,7 +389,7 @@ msgstr ""
 
 #: config/./buttons/shortcode-vc-btn.php:257
 #: config/./deprecated/shortcode-vc-button2.php:37
-#: config/./social/shortcode-vc-googleplus.php:33
+#: config/./deprecated/shortcode-vc-googleplus.php:34
 msgid "Inline"
 msgstr ""
 
@@ -408,7 +408,7 @@ msgstr ""
 #: config/./deprecated/shortcode-vc-button2.php:38
 #: config/./deprecated/shortcode-vc-cta-button.php:78
 #: config/./deprecated/shortcode-vc-cta-button2.php:105
-#: config/./grids/class-vc-grids-common.php:450
+#: config/./grids/class-vc-grids-common.php:452
 #: config/./tta/shortcode-vc-tta-accordion.php:106
 #: config/./tta/shortcode-vc-tta-accordion.php:158
 #: config/./tta/shortcode-vc-tta-tabs.php:117
@@ -436,7 +436,7 @@ msgstr ""
 #: config/./deprecated/shortcode-vc-button2.php:40
 #: config/./deprecated/shortcode-vc-cta-button.php:77
 #: config/./deprecated/shortcode-vc-cta-button2.php:104
-#: config/./grids/class-vc-grids-common.php:451
+#: config/./grids/class-vc-grids-common.php:453
 #: config/./tta/shortcode-vc-tta-accordion.php:107
 #: config/./tta/shortcode-vc-tta-accordion.php:159
 #: config/./tta/shortcode-vc-tta-tabs.php:118
@@ -459,7 +459,7 @@ msgstr ""
 #: config/./content/shortcode-vc-zigzag.php:37
 #: config/./content/vc-icon-element.php:232
 #: config/./deprecated/shortcode-vc-button2.php:39
-#: config/./grids/class-vc-grids-common.php:449
+#: config/./grids/class-vc-grids-common.php:451
 #: config/./tta/shortcode-vc-tta-accordion.php:108
 #: config/./tta/shortcode-vc-tta-tabs.php:119
 #: config/./tta/shortcode-vc-tta-tour.php:119
@@ -515,12 +515,6 @@ msgid "Icon"
 msgstr ""
 
 #: config/./buttons/shortcode-vc-btn.php:310
-#: config/./content/shortcode-vc-message.php:175
-#: config/./content/shortcode-vc-message.php:192
-#: config/./content/shortcode-vc-message.php:209
-#: config/./content/shortcode-vc-message.php:242
-#: config/./content/shortcode-vc-message.php:258
-#: config/./content/shortcode-vc-message.php:277
 #: config/./content/vc-icon-element.php:46
 #: config/./content/vc-icon-element.php:65
 #: config/./content/vc-icon-element.php:84
@@ -555,14 +549,14 @@ msgstr ""
 #: config/./content/shortcode-vc-zigzag.php:78
 #: config/./content/vc-custom-heading-element.php:90
 #: config/./content/vc-icon-element.php:245
-#: config/./grids/class-vc-grids-common.php:677
-#: config/./grids/class-vc-grids-common.php:1037
+#: config/./deprecated/shortcode-vc-googleplus.php:53
+#: config/./grids/class-vc-grids-common.php:679
+#: config/./grids/class-vc-grids-common.php:1039
 #: config/./social/shortcode-vc-facebook.php:28
-#: config/./social/shortcode-vc-googleplus.php:52
 #: config/./social/shortcode-vc-pinterest.php:28
 #: config/./social/shortcode-vc-tweetmeme.php:344
 #: config/./structure/shortcode-vc-raw-html.php:25
-#: config/./structure/shortcode-vc-raw-js.php:25
+#: config/./structure/shortcode-vc-raw-js.php:26
 #: config/./structure/shortcode-vc-widget-sidebar.php:29
 #: config/./tta/shortcode-vc-tta-accordion.php:179
 #: config/./tta/shortcode-vc-tta-pageable.php:99
@@ -612,14 +606,14 @@ msgstr ""
 #: config/./content/shortcode-vc-zigzag.php:80
 #: config/./content/vc-custom-heading-element.php:92
 #: config/./content/vc-icon-element.php:247
-#: config/./grids/class-vc-grids-common.php:679
-#: config/./grids/class-vc-grids-common.php:1039
+#: config/./deprecated/shortcode-vc-googleplus.php:55
+#: config/./grids/class-vc-grids-common.php:681
+#: config/./grids/class-vc-grids-common.php:1041
 #: config/./social/shortcode-vc-facebook.php:30
-#: config/./social/shortcode-vc-googleplus.php:54
 #: config/./social/shortcode-vc-pinterest.php:30
 #: config/./social/shortcode-vc-tweetmeme.php:346
 #: config/./structure/shortcode-vc-raw-html.php:27
-#: config/./structure/shortcode-vc-raw-js.php:27
+#: config/./structure/shortcode-vc-raw-js.php:28
 #: config/./structure/shortcode-vc-widget-sidebar.php:31
 #: config/./tta/shortcode-vc-tta-accordion.php:181
 #: config/./tta/shortcode-vc-tta-pageable.php:101
@@ -678,16 +672,16 @@ msgstr ""
 #: config/./deprecated/shortcode-vc-button2.php:69
 #: config/./deprecated/shortcode-vc-cta-button.php:86
 #: config/./deprecated/shortcode-vc-cta-button2.php:113
+#: config/./deprecated/shortcode-vc-googleplus.php:59
 #: config/./deprecated/shortcode-vc-tabs.php:38
 #: config/./deprecated/shortcode-vc-tour.php:40
-#: config/./grids/class-vc-grids-common.php:683
-#: config/./grids/class-vc-grids-common.php:1043
+#: config/./grids/class-vc-grids-common.php:685
+#: config/./grids/class-vc-grids-common.php:1045
 #: config/./social/shortcode-vc-facebook.php:34
-#: config/./social/shortcode-vc-googleplus.php:58
 #: config/./social/shortcode-vc-pinterest.php:34
 #: config/./social/shortcode-vc-tweetmeme.php:350
 #: config/./structure/shortcode-vc-raw-html.php:31
-#: config/./structure/shortcode-vc-raw-js.php:31
+#: config/./structure/shortcode-vc-raw-js.php:32
 #: config/./structure/shortcode-vc-widget-sidebar.php:35
 #: config/./tta/shortcode-vc-tta-accordion.php:185
 #: config/./tta/shortcode-vc-tta-pageable.php:105
@@ -763,16 +757,16 @@ msgstr ""
 #: config/./deprecated/shortcode-vc-button2.php:71
 #: config/./deprecated/shortcode-vc-cta-button.php:88
 #: config/./deprecated/shortcode-vc-cta-button2.php:115
+#: config/./deprecated/shortcode-vc-googleplus.php:61
 #: config/./deprecated/shortcode-vc-tabs.php:40
 #: config/./deprecated/shortcode-vc-tour.php:42
-#: config/./grids/class-vc-grids-common.php:685
-#: config/./grids/class-vc-grids-common.php:1045
+#: config/./grids/class-vc-grids-common.php:687
+#: config/./grids/class-vc-grids-common.php:1047
 #: config/./social/shortcode-vc-facebook.php:36
-#: config/./social/shortcode-vc-googleplus.php:60
 #: config/./social/shortcode-vc-pinterest.php:36
 #: config/./social/shortcode-vc-tweetmeme.php:352
 #: config/./structure/shortcode-vc-raw-html.php:33
-#: config/./structure/shortcode-vc-raw-js.php:33
+#: config/./structure/shortcode-vc-raw-js.php:34
 #: config/./structure/shortcode-vc-widget-sidebar.php:37
 #: config/./wp/shortcode-vc-wp-archives.php:42
 #: config/./wp/shortcode-vc-wp-calendar.php:31
@@ -856,10 +850,10 @@ msgstr ""
 #: config/./content/shortcode-vc-zigzag.php:90
 #: config/./content/vc-custom-heading-element.php:102
 #: config/./content/vc-icon-element.php:257
-#: config/./grids/class-vc-grids-common.php:689
-#: config/./grids/class-vc-grids-common.php:1049
+#: config/./deprecated/shortcode-vc-googleplus.php:65
+#: config/./grids/class-vc-grids-common.php:691
+#: config/./grids/class-vc-grids-common.php:1051
 #: config/./social/shortcode-vc-facebook.php:40
-#: config/./social/shortcode-vc-googleplus.php:64
 #: config/./social/shortcode-vc-pinterest.php:40
 #: config/./social/shortcode-vc-tweetmeme.php:356
 #: config/./structure/shortcode-vc-raw-html.php:37
@@ -908,10 +902,10 @@ msgstr ""
 #: config/./content/shortcode-vc-zigzag.php:92
 #: config/./content/vc-custom-heading-element.php:104
 #: config/./content/vc-icon-element.php:259
-#: config/./grids/class-vc-grids-common.php:691
-#: config/./grids/class-vc-grids-common.php:1051
+#: config/./deprecated/shortcode-vc-googleplus.php:67
+#: config/./grids/class-vc-grids-common.php:693
+#: config/./grids/class-vc-grids-common.php:1053
 #: config/./social/shortcode-vc-facebook.php:42
-#: config/./social/shortcode-vc-googleplus.php:66
 #: config/./social/shortcode-vc-pinterest.php:42
 #: config/./social/shortcode-vc-tweetmeme.php:358
 #: config/./structure/shortcode-vc-raw-html.php:39
@@ -977,9 +971,9 @@ msgstr ""
 #: config/./tta/shortcode-vc-tta-section.php:79
 #: config/./tta/shortcode-vc-tta-tabs.php:15
 #: config/./tta/shortcode-vc-tta-tour.php:15
-#: include/./autoload/vendors/gravity_forms.php:36
+#: include/./autoload/vendors/gravity_forms.php:37
 #: include/./autoload/vendors/shortcode-vc-gutenberg.php:10
-#: include/./classes/settings/automapper/class-vc-automapper.php:173
+#: include/./classes/settings/automapper/class-vc-automapper.php:186
 #: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:35
 #: include/./classes/vendors/plugins/acf/shortcode.php:34
 #: include/./classes/vendors/plugins/class-vc-vendor-contact-form7.php:55
@@ -1009,7 +1003,7 @@ msgstr ""
 #: config/./buttons/shortcode-vc-cta.php:80
 #: config/./content/shortcode-vc-toggle.php:7
 #: config/./deprecated/shortcode-vc-cta-button2.php:17
-#: include/./classes/settings/automapper/class-vc-automapper.php:190
+#: include/./classes/settings/automapper/class-vc-automapper.php:203
 msgid "Heading"
 msgstr ""
 
@@ -1112,7 +1106,7 @@ msgstr ""
 #: config/./containers/shortcode-vc-column.php:119
 #: config/./content/shortcode-vc-hoverbox.php:181
 #: config/./deprecated/shortcode-vc-cta-button2.php:39
-#: config/./social/shortcode-vc-googleplus.php:41
+#: config/./deprecated/shortcode-vc-googleplus.php:42
 #: include/./params/vc_grid_item/shortcodes.php:352
 #: include/./templates/params/column_offset/template.tpl.php:37
 msgid "Width"
@@ -1134,9 +1128,9 @@ msgstr ""
 
 #: config/./buttons/shortcode-vc-cta.php:207
 #: config/./buttons/shortcode-vc-cta.php:226
-#: include/./autoload/vendors/gravity_forms.php:53
-#: include/./autoload/vendors/gravity_forms.php:68
-#: include/./autoload/vendors/gravity_forms.php:83
+#: include/./autoload/vendors/gravity_forms.php:54
+#: include/./autoload/vendors/gravity_forms.php:69
+#: include/./autoload/vendors/gravity_forms.php:84
 msgid "No"
 msgstr ""
 
@@ -1374,9 +1368,9 @@ msgstr ""
 #: config/./content/vc-custom-heading-element.php:69
 #: config/./deprecated/shortcode-vc-accordion.php:34
 #: config/./deprecated/shortcode-vc-accordion.php:41
-#: config/./grids/class-vc-grids-common.php:238
-#: config/./grids/class-vc-grids-common.php:600
-#: config/./grids/class-vc-grids-common.php:973
+#: config/./grids/class-vc-grids-common.php:240
+#: config/./grids/class-vc-grids-common.php:602
+#: config/./grids/class-vc-grids-common.php:975
 #: config/./social/shortcode-vc-tweetmeme.php:31
 #: config/./social/shortcode-vc-tweetmeme.php:56
 #: config/./social/shortcode-vc-tweetmeme.php:126
@@ -1384,9 +1378,9 @@ msgstr ""
 #: config/./social/shortcode-vc-tweetmeme.php:210
 #: config/./social/shortcode-vc-tweetmeme.php:247
 #: config/./wp/shortcode-vc-wp-posts.php:34
-#: include/./autoload/vendors/gravity_forms.php:54
-#: include/./autoload/vendors/gravity_forms.php:69
-#: include/./autoload/vendors/gravity_forms.php:84
+#: include/./autoload/vendors/gravity_forms.php:55
+#: include/./autoload/vendors/gravity_forms.php:70
+#: include/./autoload/vendors/gravity_forms.php:85
 #: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:52
 #: include/./classes/vendors/plugins/acf/shortcode.php:50
 #: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:74
@@ -1429,13 +1423,13 @@ msgstr ""
 #: config/./content/shortcode-vc-images-carousel.php:39
 #: config/./content/shortcode-vc-single-image.php:182
 #: config/./content/vc-icon-element.php:184
-#: config/./grids/class-vc-grids-common.php:494
-#: config/./grids/class-vc-grids-common.php:551
-#: config/./grids/class-vc-grids-common.php:867
-#: config/./grids/class-vc-grids-common.php:924
-#: config/./grids/class-vc-grids-common.php:1131
-#: config/./grids/class-vc-grids-common.php:1181 config/./lean-map.php:205
-#: config/./social/shortcode-vc-googleplus.php:34
+#: config/./deprecated/shortcode-vc-googleplus.php:35
+#: config/./grids/class-vc-grids-common.php:496
+#: config/./grids/class-vc-grids-common.php:553
+#: config/./grids/class-vc-grids-common.php:869
+#: config/./grids/class-vc-grids-common.php:926
+#: config/./grids/class-vc-grids-common.php:1133
+#: config/./grids/class-vc-grids-common.php:1183 config/./lean-map.php:205
 #: config/./tta/shortcode-vc-tta-accordion.php:66
 #: config/./tta/shortcode-vc-tta-accordion.php:86
 #: config/./tta/shortcode-vc-tta-accordion.php:117
@@ -1452,7 +1446,7 @@ msgstr ""
 #: config/./tta/shortcode-vc-tta-tour.php:170
 #: include/./autoload/vc-image-filters.php:56
 #: include/./params/animation_style/animation_style.php:41
-#: include/./params/css_editor/css_editor.php:113
+#: include/./params/css_editor/css_editor.php:114
 #: include/./params/vc_grid_item/shortcodes.php:14
 #: include/./params/vc_grid_item/shortcodes.php:488
 #: include/./templates/pages/vc-settings/default-template-post-type.tpl.php:27
@@ -1465,8 +1459,8 @@ msgstr ""
 #: config/./containers/shortcode-vc-row.php:137
 #: config/./containers/shortcode-vc-section.php:76
 #: config/./containers/shortcode-vc-section.php:91
-#: config/./grids/class-vc-grids-common.php:495
-#: config/./grids/class-vc-grids-common.php:868
+#: config/./grids/class-vc-grids-common.php:497
+#: config/./grids/class-vc-grids-common.php:870
 msgid "Simple"
 msgstr ""
 
@@ -1586,9 +1580,9 @@ msgstr ""
 #: config/./containers/shortcode-vc-section.php:44
 #: config/./content/shortcode-vc-progress-bar.php:7
 #: config/./content/shortcode-vc-toggle.php:57
-#: config/./grids/class-vc-grids-common.php:1132
-#: config/./grids/class-vc-grids-common.php:1182
-#: include/./helpers/helpers_api.php:550
+#: config/./grids/class-vc-grids-common.php:1134
+#: config/./grids/class-vc-grids-common.php:1184
+#: include/./helpers/helpers_api.php:554
 msgid "Default"
 msgstr ""
 
@@ -1686,8 +1680,8 @@ msgstr ""
 #: config/./tta/shortcode-vc-tta-section.php:70
 #: config/./tta/shortcode-vc-tta-tour.php:225
 #: config/./tta/shortcode-vc-tta-tour.php:226
-#: include/./classes/core/class-vc-base.php:787
-#: include/./classes/core/class-vc-base.php:790
+#: include/./classes/core/class-vc-base.php:703
+#: include/./classes/core/class-vc-base.php:706
 msgid "Section"
 msgstr ""
 
@@ -1904,7 +1898,7 @@ msgstr ""
 #: config/./content/shortcode-vc-posts-slider.php:138
 #: config/./wp/shortcode-vc-wp-links.php:45
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:130
-#: include/./params/loop/loop.php:467
+#: include/./params/loop/loop.php:472
 msgid "Random"
 msgstr ""
 
@@ -1958,7 +1952,7 @@ msgstr ""
 #: config/./deprecated/shortcode-vc-tabs.php:27
 #: config/./deprecated/shortcode-vc-tour.php:29
 #: include/./autoload/vendors/gutenberg.php:41
-#: include/./classes/settings/class-vc-settings.php:500
+#: include/./classes/settings/class-vc-settings.php:498
 msgid "Disable"
 msgstr ""
 
@@ -1993,13 +1987,13 @@ msgstr ""
 
 #: config/./content/shortcode-vc-gallery.php:65
 #: config/./content/shortcode-vc-images-carousel.php:21
-#: config/./grids/class-vc-grids-common.php:755
+#: config/./grids/class-vc-grids-common.php:757
 msgid "Images"
 msgstr ""
 
 #: config/./content/shortcode-vc-gallery.php:68
 #: config/./content/shortcode-vc-images-carousel.php:24
-#: config/./grids/class-vc-grids-common.php:757
+#: config/./grids/class-vc-grids-common.php:759
 msgid "Select images from media library."
 msgstr ""
 
@@ -2398,14 +2392,14 @@ msgstr ""
 #: config/./content/shortcode-vc-text-separator.php:48
 #: config/./deprecated/shortcode-vc-accordion-tab.php:16
 #: config/./deprecated/shortcode-vc-tab.php:16
-#: config/./grids/class-vc-grids-common.php:281
+#: config/./grids/class-vc-grids-common.php:283
 #: config/./tta/shortcode-vc-tta-section.php:48
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:128
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1268
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1301
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1364
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1478
-#: include/./params/loop/loop.php:459 include/./params/vc_link/vc_link.php:16
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1269
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1302
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1365
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1479
+#: include/./params/loop/loop.php:464 include/./params/vc_link/vc_link.php:16
 msgid "Title"
 msgstr ""
 
@@ -2525,7 +2519,7 @@ msgstr ""
 
 #: config/./content/shortcode-vc-message.php:149
 #: config/./content/vc-icon-element.php:18
-msgid "Font Awesome"
+msgid "Font Awesome 5"
 msgstr ""
 
 #: config/./content/shortcode-vc-message.php:150
@@ -2554,8 +2548,16 @@ msgid "Mono Social"
 msgstr ""
 
 #: config/./content/shortcode-vc-message.php:158
-#: config/./content/vc-icon-element.php:28
-msgid "Select icon library."
+msgid "Choose icon library."
+msgstr ""
+
+#: config/./content/shortcode-vc-message.php:175
+#: config/./content/shortcode-vc-message.php:192
+#: config/./content/shortcode-vc-message.php:209
+#: config/./content/shortcode-vc-message.php:242
+#: config/./content/shortcode-vc-message.php:258
+#: config/./content/shortcode-vc-message.php:277
+msgid "Choose icon from library."
 msgstr ""
 
 #: config/./content/shortcode-vc-message.php:283
@@ -2641,7 +2643,7 @@ msgid ""
 msgstr ""
 
 #: config/./content/shortcode-vc-posts-slider.php:53
-#: include/./params/loop/loop.php:329
+#: include/./params/loop/loop.php:334
 #: include/./templates/pages/partials/vc-roles-parts/_post_types.tpl.php:18
 #: include/./templates/pages/partials/vc-roles-parts/_post_types.tpl.php:19
 msgid "Post types"
@@ -2652,7 +2654,7 @@ msgid "Select source for slider."
 msgstr ""
 
 #: config/./content/shortcode-vc-posts-slider.php:59
-#: include/./classes/settings/automapper/class-vc-automapper.php:227
+#: include/./classes/settings/automapper/class-vc-automapper.php:240
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:75
 msgid "Description"
 msgstr ""
@@ -2726,8 +2728,8 @@ msgstr ""
 #: config/./content/shortcode-vc-posts-slider.php:123
 #: config/./wp/shortcode-vc-wp-categories.php:7
 #: config/./wp/shortcode-vc-wp-categories.php:20
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:618
-#: include/./params/loop/loop.php:331
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:619
+#: include/./params/loop/loop.php:336
 msgid "Categories"
 msgstr ""
 
@@ -2738,58 +2740,58 @@ msgid ""
 msgstr ""
 
 #: config/./content/shortcode-vc-posts-slider.php:129
-#: config/./grids/class-vc-grids-common.php:275
+#: config/./grids/class-vc-grids-common.php:277
 #: config/./wp/shortcode-vc-wp-links.php:39
 #: config/./wp/shortcode-vc-wp-pages.php:24
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:249
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:304
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:372
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:539
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:584
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:664
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:752
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:814
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:909
-#: include/./params/loop/loop.php:327
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:250
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:305
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:373
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:540
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:585
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:665
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:753
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:815
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:910
+#: include/./params/loop/loop.php:332
 msgid "Order by"
 msgstr ""
 
 #: config/./content/shortcode-vc-posts-slider.php:133
-#: config/./grids/class-vc-grids-common.php:278
+#: config/./grids/class-vc-grids-common.php:280
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:125
-#: include/./params/loop/loop.php:450
+#: include/./params/loop/loop.php:455
 msgid "Date"
 msgstr ""
 
 #: config/./content/shortcode-vc-posts-slider.php:134
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:126
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1499
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1538
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1500
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1539
 msgid "ID"
 msgstr ""
 
 #: config/./content/shortcode-vc-posts-slider.php:135
-#: config/./grids/class-vc-grids-common.php:280
+#: config/./grids/class-vc-grids-common.php:282
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:127
-#: include/./params/loop/loop.php:330 include/./params/loop/loop.php:455
+#: include/./params/loop/loop.php:335 include/./params/loop/loop.php:460
 msgid "Author"
 msgstr ""
 
 #: config/./content/shortcode-vc-posts-slider.php:137
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:129
-#: include/./params/loop/loop.php:463
+#: include/./params/loop/loop.php:468
 msgid "Modified"
 msgstr ""
 
 #: config/./content/shortcode-vc-posts-slider.php:139
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:131
-#: include/./params/loop/loop.php:471
+#: include/./params/loop/loop.php:476
 msgid "Comment count"
 msgstr ""
 
 #: config/./content/shortcode-vc-posts-slider.php:140
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:132
-#: include/./params/loop/loop.php:475
+#: include/./params/loop/loop.php:480
 msgid "Menu order"
 msgstr ""
 
@@ -2799,31 +2801,31 @@ msgid "Select how to sort retrieved posts. More at %s."
 msgstr ""
 
 #: config/./content/shortcode-vc-posts-slider.php:146
-#: config/./grids/class-vc-grids-common.php:303
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:259
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:314
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:382
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:549
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:594
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:674
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:762
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:824
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:919
-#: include/./params/loop/loop.php:328
+#: config/./grids/class-vc-grids-common.php:305
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:260
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:315
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:383
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:550
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:595
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:675
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:763
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:825
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:920
+#: include/./params/loop/loop.php:333
 msgid "Sort order"
 msgstr ""
 
 #: config/./content/shortcode-vc-posts-slider.php:149
-#: config/./grids/class-vc-grids-common.php:307
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:139
-#: include/./params/loop/loop.php:494
+#: config/./grids/class-vc-grids-common.php:309
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:140
+#: include/./params/loop/loop.php:499
 msgid "Descending"
 msgstr ""
 
 #: config/./content/shortcode-vc-posts-slider.php:150
-#: config/./grids/class-vc-grids-common.php:308
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:140
-#: include/./params/loop/loop.php:490
+#: config/./grids/class-vc-grids-common.php:310
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:141
+#: include/./params/loop/loop.php:495
 msgid "Ascending"
 msgstr ""
 
@@ -2939,8 +2941,8 @@ msgid "Doughnut"
 msgstr ""
 
 #: config/./content/shortcode-vc-round-chart.php:48
-#: config/./grids/class-vc-grids-common.php:252
-#: config/./grids/class-vc-grids-common.php:804
+#: config/./grids/class-vc-grids-common.php:254
+#: config/./grids/class-vc-grids-common.php:806
 #: config/./tta/shortcode-vc-tta-accordion.php:99
 #: config/./tta/shortcode-vc-tta-tabs.php:100
 #: config/./tta/shortcode-vc-tta-tour.php:100
@@ -3303,14 +3305,14 @@ msgstr ""
 msgid "Extra small"
 msgstr ""
 
-#: config/./content/shortcode-vc-zigzag.php:68 config/./lean-map.php:198
-#: config/./social/shortcode-vc-googleplus.php:20
+#: config/./content/shortcode-vc-zigzag.php:68
+#: config/./deprecated/shortcode-vc-googleplus.php:21 config/./lean-map.php:198
 #: config/./tta/shortcode-vc-tta-tour.php:132
 msgid "Small"
 msgstr ""
 
 #: config/./content/shortcode-vc-zigzag.php:69
-#: config/./social/shortcode-vc-googleplus.php:21
+#: config/./deprecated/shortcode-vc-googleplus.php:22
 #: config/./tta/shortcode-vc-tta-tour.php:131
 msgid "Medium"
 msgstr ""
@@ -3419,6 +3421,10 @@ msgstr ""
 
 #: config/./content/vc-icon-element.php:24
 msgid "Material"
+msgstr ""
+
+#: config/./content/vc-icon-element.php:28
+msgid "Select icon library."
 msgstr ""
 
 #: config/./content/vc-icon-element.php:173
@@ -3564,10 +3570,10 @@ msgstr ""
 #: config/./deprecated/shortcode-vc-button2.php:65
 #: config/./deprecated/shortcode-vc-cta-button.php:70
 #: config/./deprecated/shortcode-vc-cta-button2.php:97
-#: config/./grids/class-vc-grids-common.php:726
-#: config/./grids/class-vc-grids-common.php:855
-#: config/./grids/class-vc-grids-common.php:1086
-#: config/./social/shortcode-vc-googleplus.php:24
+#: config/./deprecated/shortcode-vc-googleplus.php:25
+#: config/./grids/class-vc-grids-common.php:728
+#: config/./grids/class-vc-grids-common.php:857
+#: config/./grids/class-vc-grids-common.php:1088
 msgid "Select button size."
 msgstr ""
 
@@ -3621,6 +3627,55 @@ msgstr ""
 msgid "Add text on the button."
 msgstr ""
 
+#: config/./deprecated/shortcode-vc-googleplus.php:7
+msgid "Google+ Button"
+msgstr ""
+
+#: config/./deprecated/shortcode-vc-googleplus.php:11
+#: config/./social/shortcode-vc-facebook.php:10
+#: config/./social/shortcode-vc-pinterest.php:10
+#: config/./social/shortcode-vc-tweetmeme.php:10
+msgid "Social"
+msgstr ""
+
+#: config/./deprecated/shortcode-vc-googleplus.php:12
+msgid "Recommend on Google"
+msgstr ""
+
+#: config/./deprecated/shortcode-vc-googleplus.php:16
+#: config/./grids/class-vc-grids-common.php:725
+#: config/./grids/class-vc-grids-common.php:854
+#: config/./grids/class-vc-grids-common.php:1085
+msgid "Button size"
+msgstr ""
+
+#: config/./deprecated/shortcode-vc-googleplus.php:20
+msgid "Standard"
+msgstr ""
+
+#: config/./deprecated/shortcode-vc-googleplus.php:23
+msgid "Tall"
+msgstr ""
+
+#: config/./deprecated/shortcode-vc-googleplus.php:29
+msgid "Annotation"
+msgstr ""
+
+#: config/./deprecated/shortcode-vc-googleplus.php:33
+msgid "Bubble"
+msgstr ""
+
+#: config/./deprecated/shortcode-vc-googleplus.php:38
+msgid "Select type of annotation."
+msgstr ""
+
+#: config/./deprecated/shortcode-vc-googleplus.php:48
+msgid ""
+"Minimum width of 120px to display. If annotation is set to \"inline\", this "
+"parameter sets the width in pixels to use for button and its inline "
+"annotation. Default width is 450px."
+msgstr ""
+
 #: config/./deprecated/shortcode-vc-tab.php:7
 msgid "Old Tab"
 msgstr ""
@@ -3670,667 +3725,660 @@ msgid "Auto rotate slides"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:21
-#: config/./grids/class-vc-grids-common.php:701
-#: config/./grids/class-vc-grids-common.php:714
-#: config/./grids/class-vc-grids-common.php:727
-#: config/./grids/class-vc-grids-common.php:830
-#: config/./grids/class-vc-grids-common.php:843
-#: config/./grids/class-vc-grids-common.php:856
-#: config/./grids/class-vc-grids-common.php:1061
-#: config/./grids/class-vc-grids-common.php:1074
-#: config/./grids/class-vc-grids-common.php:1087
+#: config/./grids/class-vc-grids-common.php:703
+#: config/./grids/class-vc-grids-common.php:716
+#: config/./grids/class-vc-grids-common.php:729
+#: config/./grids/class-vc-grids-common.php:832
+#: config/./grids/class-vc-grids-common.php:845
+#: config/./grids/class-vc-grids-common.php:858
+#: config/./grids/class-vc-grids-common.php:1063
+#: config/./grids/class-vc-grids-common.php:1076
+#: config/./grids/class-vc-grids-common.php:1089
 msgid "Load More Button"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:34
+#: config/./grids/class-vc-grids-common.php:35
 #: include/./classes/shortcodes/paginator/class-vc-pageable.php:51
 #: include/./classes/shortcodes/vc-basic-grid.php:107
 msgid "Load more"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:100
-#: config/./grids/class-vc-grids-common.php:148
+#: config/./grids/class-vc-grids-common.php:101
+#: config/./grids/class-vc-grids-common.php:149
 msgid "Custom query"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:104
+#: config/./grids/class-vc-grids-common.php:105
 msgid "List of IDs"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:123
+#: config/./grids/class-vc-grids-common.php:124
 msgid "Data source"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:127
+#: config/./grids/class-vc-grids-common.php:128
 msgid "Select content type for your grid."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:132
+#: config/./grids/class-vc-grids-common.php:133
 msgid "Include only"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:134
+#: config/./grids/class-vc-grids-common.php:135
 msgid "Add posts, pages, etc. by title."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:150
+#: config/./grids/class-vc-grids-common.php:151
 #, php-format
 msgid "Build custom query according to %sWordPress Codex%s."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:159
+#: config/./grids/class-vc-grids-common.php:160
 msgid "Narrow data source"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:176
+#: config/./grids/class-vc-grids-common.php:177
 msgid "Enter categories, tags or custom taxonomies."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:187
+#: config/./grids/class-vc-grids-common.php:189
 msgid "Total items"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:192
+#: config/./grids/class-vc-grids-common.php:194
 msgid ""
 "Set max limit for items in grid or enter -1 to display all (limited to 1000)."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:203
-#: config/./grids/class-vc-grids-common.php:762
+#: config/./grids/class-vc-grids-common.php:205
+#: config/./grids/class-vc-grids-common.php:764
 msgid "Display Style"
-msgstr ""
-
-#: config/./grids/class-vc-grids-common.php:206
-#: config/./grids/class-vc-grids-common.php:765
-msgid "Show all"
-msgstr ""
-
-#: config/./grids/class-vc-grids-common.php:207
-#: config/./grids/class-vc-grids-common.php:766
-msgid "Load more button"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:208
 #: config/./grids/class-vc-grids-common.php:767
-msgid "Lazy loading"
+msgid "Show all"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:209
-#: config/./grids/class-vc-grids-common.php:509
-#: config/./grids/class-vc-grids-common.php:524
-#: config/./grids/class-vc-grids-common.php:538
-#: config/./grids/class-vc-grids-common.php:573
-#: config/./grids/class-vc-grids-common.php:587
-#: config/./grids/class-vc-grids-common.php:601
-#: config/./grids/class-vc-grids-common.php:613
-#: config/./grids/class-vc-grids-common.php:623
-#: config/./grids/class-vc-grids-common.php:640
 #: config/./grids/class-vc-grids-common.php:768
-#: config/./grids/class-vc-grids-common.php:882
-#: config/./grids/class-vc-grids-common.php:897
-#: config/./grids/class-vc-grids-common.php:911
-#: config/./grids/class-vc-grids-common.php:946
-#: config/./grids/class-vc-grids-common.php:960
-#: config/./grids/class-vc-grids-common.php:974
-#: config/./grids/class-vc-grids-common.php:986
-#: config/./grids/class-vc-grids-common.php:996
-#: config/./grids/class-vc-grids-common.php:1013
-#: config/./grids/class-vc-grids-common.php:1123
-#: config/./grids/class-vc-grids-common.php:1140
-#: config/./grids/class-vc-grids-common.php:1143
-#: config/./grids/class-vc-grids-common.php:1162
-#: config/./grids/class-vc-grids-common.php:1165
-#: config/./grids/class-vc-grids-common.php:1173
+msgid "Load more button"
+msgstr ""
+
+#: config/./grids/class-vc-grids-common.php:210
+#: config/./grids/class-vc-grids-common.php:769
+msgid "Lazy loading"
+msgstr ""
+
+#: config/./grids/class-vc-grids-common.php:211
+#: config/./grids/class-vc-grids-common.php:511
+#: config/./grids/class-vc-grids-common.php:526
+#: config/./grids/class-vc-grids-common.php:540
+#: config/./grids/class-vc-grids-common.php:575
+#: config/./grids/class-vc-grids-common.php:589
+#: config/./grids/class-vc-grids-common.php:603
+#: config/./grids/class-vc-grids-common.php:615
+#: config/./grids/class-vc-grids-common.php:625
+#: config/./grids/class-vc-grids-common.php:642
+#: config/./grids/class-vc-grids-common.php:770
+#: config/./grids/class-vc-grids-common.php:884
+#: config/./grids/class-vc-grids-common.php:899
+#: config/./grids/class-vc-grids-common.php:913
+#: config/./grids/class-vc-grids-common.php:948
+#: config/./grids/class-vc-grids-common.php:962
+#: config/./grids/class-vc-grids-common.php:976
+#: config/./grids/class-vc-grids-common.php:988
+#: config/./grids/class-vc-grids-common.php:998
+#: config/./grids/class-vc-grids-common.php:1015
+#: config/./grids/class-vc-grids-common.php:1125
+#: config/./grids/class-vc-grids-common.php:1142
+#: config/./grids/class-vc-grids-common.php:1145
+#: config/./grids/class-vc-grids-common.php:1164
+#: config/./grids/class-vc-grids-common.php:1167
+#: config/./grids/class-vc-grids-common.php:1175
 msgid "Pagination"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:216
-#: config/./grids/class-vc-grids-common.php:775
+#: config/./grids/class-vc-grids-common.php:218
+#: config/./grids/class-vc-grids-common.php:777
 msgid "Select display style for grid."
-msgstr ""
-
-#: config/./grids/class-vc-grids-common.php:220
-#: config/./grids/class-vc-grids-common.php:779
-msgid "Items per page"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:222
 #: config/./grids/class-vc-grids-common.php:781
+msgid "Items per page"
+msgstr ""
+
+#: config/./grids/class-vc-grids-common.php:224
+#: config/./grids/class-vc-grids-common.php:783
 msgid "Number of items to show per page."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:236
+#: config/./grids/class-vc-grids-common.php:238
 msgid "Show filter"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:239
+#: config/./grids/class-vc-grids-common.php:241
 msgid "Append filter to grid."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:243
-#: config/./grids/class-vc-grids-common.php:795
+#: config/./grids/class-vc-grids-common.php:245
+#: config/./grids/class-vc-grids-common.php:797
 msgid "Grid elements per row"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:248
-#: config/./grids/class-vc-grids-common.php:800
+#: config/./grids/class-vc-grids-common.php:250
+#: config/./grids/class-vc-grids-common.php:802
 msgid "Select number of single grid elements per row."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:269
-#: config/./grids/class-vc-grids-common.php:821
+#: config/./grids/class-vc-grids-common.php:271
+#: config/./grids/class-vc-grids-common.php:823
 msgid "Select gap between grid elements."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:279
+#: config/./grids/class-vc-grids-common.php:281
 msgid "Order by post ID"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:282
+#: config/./grids/class-vc-grids-common.php:284
 msgid "Last modified date"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:283
+#: config/./grids/class-vc-grids-common.php:285
 msgid "Post/page parent ID"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:284
+#: config/./grids/class-vc-grids-common.php:286
 #: config/./wp/shortcode-vc-wp-recentcomments.php:24
 msgid "Number of comments"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:285
+#: config/./grids/class-vc-grids-common.php:287
 msgid "Menu order/Page Order"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:286
+#: config/./grids/class-vc-grids-common.php:288
 msgid "Meta value"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:287
+#: config/./grids/class-vc-grids-common.php:289
 msgid "Meta value number"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:288
+#: config/./grids/class-vc-grids-common.php:290
 msgid "Random order"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:290
+#: config/./grids/class-vc-grids-common.php:292
 msgid ""
 "Select order type. If \"Meta value\" or \"Meta value Number\" is chosen then "
 "meta key is required."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:291
-#: config/./grids/class-vc-grids-common.php:305
-#: config/./grids/class-vc-grids-common.php:325
-#: config/./grids/class-vc-grids-common.php:340
-#: config/./grids/class-vc-grids-common.php:355
+#: config/./grids/class-vc-grids-common.php:293
+#: config/./grids/class-vc-grids-common.php:307
+#: config/./grids/class-vc-grids-common.php:327
+#: config/./grids/class-vc-grids-common.php:342
+#: config/./grids/class-vc-grids-common.php:357
 msgid "Data Settings"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:311
+#: config/./grids/class-vc-grids-common.php:313
 msgid "Select sorting order."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:322
+#: config/./grids/class-vc-grids-common.php:324
 msgid "Meta key"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:324
+#: config/./grids/class-vc-grids-common.php:326
 msgid "Input meta key for grid ordering."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:337
+#: config/./grids/class-vc-grids-common.php:339
 #: include/./templates/params/column_offset/template.tpl.php:34
 msgid "Offset"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:339
+#: config/./grids/class-vc-grids-common.php:341
 msgid "Number of grid elements to displace or pass over."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:352
+#: config/./grids/class-vc-grids-common.php:354
 #: config/./wp/shortcode-vc-wp-pages.php:36
 msgid "Exclude"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:354
+#: config/./grids/class-vc-grids-common.php:356
 msgid "Exclude posts, pages, etc. by title."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:372
+#: config/./grids/class-vc-grids-common.php:374
 msgid "Filter by"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:375
-#: config/./grids/class-vc-grids-common.php:409
-#: config/./grids/class-vc-grids-common.php:429
-#: config/./grids/class-vc-grids-common.php:442
-#: config/./grids/class-vc-grids-common.php:457
-#: config/./grids/class-vc-grids-common.php:471
-#: config/./grids/class-vc-grids-common.php:485
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:842
+#: config/./grids/class-vc-grids-common.php:377
+#: config/./grids/class-vc-grids-common.php:411
+#: config/./grids/class-vc-grids-common.php:431
+#: config/./grids/class-vc-grids-common.php:444
+#: config/./grids/class-vc-grids-common.php:459
+#: config/./grids/class-vc-grids-common.php:473
+#: config/./grids/class-vc-grids-common.php:487
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:843
 msgid "Filter"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:381
+#: config/./grids/class-vc-grids-common.php:383
 msgid "Select filter source."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:385
+#: config/./grids/class-vc-grids-common.php:387
 msgid "Exclude from filter list"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:403
+#: config/./grids/class-vc-grids-common.php:405
 msgid "Enter categories, tags won't be shown in the filters list"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:417
+#: config/./grids/class-vc-grids-common.php:419
 #: include/./params/vc_grid_item/shortcodes.php:491
 msgid "Less Rounded"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:418
+#: config/./grids/class-vc-grids-common.php:420
 #: include/./params/vc_grid_item/shortcodes.php:492
 msgid "Border"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:419
+#: config/./grids/class-vc-grids-common.php:421
 #: include/./params/vc_grid_item/shortcodes.php:493
 msgid "Rounded Border"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:420
+#: config/./grids/class-vc-grids-common.php:422
 #: include/./params/vc_grid_item/shortcodes.php:494
 msgid "Less Rounded Border"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:421
+#: config/./grids/class-vc-grids-common.php:423
 msgid "Filled"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:422
+#: config/./grids/class-vc-grids-common.php:424
 msgid "Rounded Filled"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:423
+#: config/./grids/class-vc-grids-common.php:425
 #: config/./wp/shortcode-vc-wp-archives.php:27
 #: config/./wp/shortcode-vc-wp-categories.php:27
-#: include/./classes/settings/automapper/class-vc-automapper.php:206
+#: include/./classes/settings/automapper/class-vc-automapper.php:219
 msgid "Dropdown"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:430
+#: config/./grids/class-vc-grids-common.php:432
 msgid "Select filter display style."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:434
+#: config/./grids/class-vc-grids-common.php:436
 msgid "Default title"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:436
+#: config/./grids/class-vc-grids-common.php:438
 #: include/./templates/editors/partials/add_element_tabs.tpl.php:10
 #: include/./templates/pages/partials/vc-roles-parts/_presets.tpl.php:11
 #: include/./templates/pages/partials/vc-roles-parts/_settings.tpl.php:17
 #: include/./templates/pages/partials/vc-roles-parts/_shortcodes.tpl.php:26
 #: include/./templates/pages/partials/vc-roles-parts/_shortcodes.tpl.php:31
 #: include/./templates/pages/partials/vc-roles-parts/_templates.tpl.php:11
-#: include/./templates/shortcodes/vc_basic_grid_filter.php:19
+#: include/./templates/shortcodes/vc_basic_grid_filter.php:20
 msgid "All"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:437
+#: config/./grids/class-vc-grids-common.php:439
 msgid "Enter default title for filter option display (empty: \"All\")."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:458
+#: config/./grids/class-vc-grids-common.php:460
 msgid "Select filter alignment."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:472
+#: config/./grids/class-vc-grids-common.php:474
 msgid "Select filter color."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:476
+#: config/./grids/class-vc-grids-common.php:478
 msgid "Filter size"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:480
+#: config/./grids/class-vc-grids-common.php:482
 msgid "Select filter size."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:491
-#: config/./grids/class-vc-grids-common.php:864
+#: config/./grids/class-vc-grids-common.php:493
+#: config/./grids/class-vc-grids-common.php:866
 msgid "Arrows design"
-msgstr ""
-
-#: config/./grids/class-vc-grids-common.php:496
-#: config/./grids/class-vc-grids-common.php:869
-msgid "Simple Circle Border"
-msgstr ""
-
-#: config/./grids/class-vc-grids-common.php:497
-#: config/./grids/class-vc-grids-common.php:870
-msgid "Simple Circle"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:498
 #: config/./grids/class-vc-grids-common.php:871
-msgid "Simple Square"
+msgid "Simple Circle Border"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:499
 #: config/./grids/class-vc-grids-common.php:872
-msgid "Simple Square Rounded"
+msgid "Simple Circle"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:500
 #: config/./grids/class-vc-grids-common.php:873
-msgid "Simple Rounded"
+msgid "Simple Square"
+msgstr ""
+
+#: config/./grids/class-vc-grids-common.php:501
+#: config/./grids/class-vc-grids-common.php:874
+msgid "Simple Square Rounded"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:502
 #: config/./grids/class-vc-grids-common.php:875
-msgid "Rounded Circle Border"
-msgstr ""
-
-#: config/./grids/class-vc-grids-common.php:503
-#: config/./grids/class-vc-grids-common.php:876
-msgid "Rounded Circle"
+msgid "Simple Rounded"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:504
 #: config/./grids/class-vc-grids-common.php:877
-msgid "Rounded Square"
+msgid "Rounded Circle Border"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:505
 #: config/./grids/class-vc-grids-common.php:878
-msgid "Simple Arrow"
+msgid "Rounded Circle"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:506
 #: config/./grids/class-vc-grids-common.php:879
+msgid "Rounded Square"
+msgstr ""
+
+#: config/./grids/class-vc-grids-common.php:507
+#: config/./grids/class-vc-grids-common.php:880
+msgid "Simple Arrow"
+msgstr ""
+
+#: config/./grids/class-vc-grids-common.php:508
+#: config/./grids/class-vc-grids-common.php:881
 msgid "Simple Rounded Arrow"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:514
-#: config/./grids/class-vc-grids-common.php:887
+#: config/./grids/class-vc-grids-common.php:516
+#: config/./grids/class-vc-grids-common.php:889
 msgid "Select design for arrows."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:518
-#: config/./grids/class-vc-grids-common.php:891
+#: config/./grids/class-vc-grids-common.php:520
+#: config/./grids/class-vc-grids-common.php:893
 msgid "Arrows position"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:521
-#: config/./grids/class-vc-grids-common.php:894
+#: config/./grids/class-vc-grids-common.php:523
+#: config/./grids/class-vc-grids-common.php:896
 msgid "Inside Wrapper"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:522
-#: config/./grids/class-vc-grids-common.php:895
+#: config/./grids/class-vc-grids-common.php:524
+#: config/./grids/class-vc-grids-common.php:897
 msgid "Outside Wrapper"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:530
-#: config/./grids/class-vc-grids-common.php:903
+#: config/./grids/class-vc-grids-common.php:532
+#: config/./grids/class-vc-grids-common.php:905
 msgid "Arrows will be displayed inside or outside grid."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:534
-#: config/./grids/class-vc-grids-common.php:907
+#: config/./grids/class-vc-grids-common.php:536
+#: config/./grids/class-vc-grids-common.php:909
 msgid "Arrows color"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:544
-#: config/./grids/class-vc-grids-common.php:917
+#: config/./grids/class-vc-grids-common.php:546
+#: config/./grids/class-vc-grids-common.php:919
 msgid "Select color for arrows."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:548
-#: config/./grids/class-vc-grids-common.php:921
+#: config/./grids/class-vc-grids-common.php:550
+#: config/./grids/class-vc-grids-common.php:923
 #: config/./tta/shortcode-vc-tta-pageable.php:68
 #: config/./tta/shortcode-vc-tta-tabs.php:163
 #: config/./tta/shortcode-vc-tta-tour.php:177
 msgid "Pagination style"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:552
-#: config/./grids/class-vc-grids-common.php:925
+#: config/./grids/class-vc-grids-common.php:554
+#: config/./grids/class-vc-grids-common.php:927
 #: config/./tta/shortcode-vc-tta-pageable.php:62
 #: config/./tta/shortcode-vc-tta-tabs.php:157
 #: config/./tta/shortcode-vc-tta-tour.php:171
 msgid "Square Dots"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:553
-#: config/./grids/class-vc-grids-common.php:926
+#: config/./grids/class-vc-grids-common.php:555
+#: config/./grids/class-vc-grids-common.php:928
 #: config/./tta/shortcode-vc-tta-pageable.php:63
 #: config/./tta/shortcode-vc-tta-tabs.php:158
 #: config/./tta/shortcode-vc-tta-tour.php:172
 msgid "Radio Dots"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:554
-#: config/./grids/class-vc-grids-common.php:927
+#: config/./grids/class-vc-grids-common.php:556
+#: config/./grids/class-vc-grids-common.php:929
 #: config/./tta/shortcode-vc-tta-pageable.php:64
 #: config/./tta/shortcode-vc-tta-tabs.php:159
 #: config/./tta/shortcode-vc-tta-tour.php:173
 msgid "Point Dots"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:555
-#: config/./grids/class-vc-grids-common.php:928
+#: config/./grids/class-vc-grids-common.php:557
+#: config/./grids/class-vc-grids-common.php:930
 #: config/./tta/shortcode-vc-tta-pageable.php:65
 #: config/./tta/shortcode-vc-tta-tabs.php:160
 #: config/./tta/shortcode-vc-tta-tour.php:174
 msgid "Fill Square Dots"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:556
-#: config/./grids/class-vc-grids-common.php:929
+#: config/./grids/class-vc-grids-common.php:558
+#: config/./grids/class-vc-grids-common.php:931
 #: config/./tta/shortcode-vc-tta-pageable.php:66
 #: config/./tta/shortcode-vc-tta-tabs.php:161
 #: config/./tta/shortcode-vc-tta-tour.php:175
 msgid "Rounded Fill Square Dots"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:557
-#: config/./grids/class-vc-grids-common.php:930
-msgid "Pagination Default"
-msgstr ""
-
-#: config/./grids/class-vc-grids-common.php:558
-#: config/./grids/class-vc-grids-common.php:931
-msgid "Outline Default Dark"
-msgstr ""
-
 #: config/./grids/class-vc-grids-common.php:559
 #: config/./grids/class-vc-grids-common.php:932
-msgid "Outline Default Light"
+msgid "Pagination Default"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:560
 #: config/./grids/class-vc-grids-common.php:933
-msgid "Pagination Rounded"
+msgid "Outline Default Dark"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:561
 #: config/./grids/class-vc-grids-common.php:934
-msgid "Outline Rounded Dark"
+msgid "Outline Default Light"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:562
 #: config/./grids/class-vc-grids-common.php:935
-msgid "Outline Rounded Light"
+msgid "Pagination Rounded"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:563
 #: config/./grids/class-vc-grids-common.php:936
-msgid "Pagination Square"
+msgid "Outline Rounded Dark"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:564
 #: config/./grids/class-vc-grids-common.php:937
-msgid "Outline Square Dark"
+msgid "Outline Rounded Light"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:565
 #: config/./grids/class-vc-grids-common.php:938
-msgid "Outline Square Light"
+msgid "Pagination Square"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:566
 #: config/./grids/class-vc-grids-common.php:939
-msgid "Pagination Rounded Square"
+msgid "Outline Square Dark"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:567
 #: config/./grids/class-vc-grids-common.php:940
-msgid "Outline Rounded Square Dark"
+msgid "Outline Square Light"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:568
 #: config/./grids/class-vc-grids-common.php:941
-msgid "Outline Rounded Square Light"
+msgid "Pagination Rounded Square"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:569
 #: config/./grids/class-vc-grids-common.php:942
-msgid "Stripes Dark"
+msgid "Outline Rounded Square Dark"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:570
 #: config/./grids/class-vc-grids-common.php:943
+msgid "Outline Rounded Square Light"
+msgstr ""
+
+#: config/./grids/class-vc-grids-common.php:571
+#: config/./grids/class-vc-grids-common.php:944
+msgid "Stripes Dark"
+msgstr ""
+
+#: config/./grids/class-vc-grids-common.php:572
+#: config/./grids/class-vc-grids-common.php:945
 msgid "Stripes Light"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:578
-#: config/./grids/class-vc-grids-common.php:951
+#: config/./grids/class-vc-grids-common.php:580
+#: config/./grids/class-vc-grids-common.php:953
 #: config/./tta/shortcode-vc-tta-pageable.php:69
 #: config/./tta/shortcode-vc-tta-tabs.php:164
 #: config/./tta/shortcode-vc-tta-tour.php:178
 msgid "Select pagination style."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:582
-#: config/./grids/class-vc-grids-common.php:955
+#: config/./grids/class-vc-grids-common.php:584
+#: config/./grids/class-vc-grids-common.php:957
 #: config/./tta/shortcode-vc-tta-pageable.php:76
 #: config/./tta/shortcode-vc-tta-tabs.php:170
 #: config/./tta/shortcode-vc-tta-tour.php:184
 msgid "Pagination color"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:593
-#: config/./grids/class-vc-grids-common.php:966
+#: config/./grids/class-vc-grids-common.php:595
+#: config/./grids/class-vc-grids-common.php:968
 #: config/./tta/shortcode-vc-tta-pageable.php:77
 #: config/./tta/shortcode-vc-tta-tabs.php:171
 #: config/./tta/shortcode-vc-tta-tour.php:185
 msgid "Select pagination color."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:597
-#: config/./grids/class-vc-grids-common.php:970
+#: config/./grids/class-vc-grids-common.php:599
+#: config/./grids/class-vc-grids-common.php:972
 msgid "Loop pages?"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:599
-#: config/./grids/class-vc-grids-common.php:972
+#: config/./grids/class-vc-grids-common.php:601
+#: config/./grids/class-vc-grids-common.php:974
 msgid "Allow items to be repeated in infinite loop (carousel)."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:609
-#: config/./grids/class-vc-grids-common.php:982
+#: config/./grids/class-vc-grids-common.php:611
+#: config/./grids/class-vc-grids-common.php:984
 msgid "Autoplay delay"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:612
-#: config/./grids/class-vc-grids-common.php:985
+#: config/./grids/class-vc-grids-common.php:614
+#: config/./grids/class-vc-grids-common.php:987
 msgid "Enter value in seconds. Set -1 to disable autoplay."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:621
-#: config/./grids/class-vc-grids-common.php:994
+#: config/./grids/class-vc-grids-common.php:623
+#: config/./grids/class-vc-grids-common.php:996
 msgid "Animation In"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:634
-#: config/./grids/class-vc-grids-common.php:1007
+#: config/./grids/class-vc-grids-common.php:636
+#: config/./grids/class-vc-grids-common.php:1009
 msgid "Select \"animation in\" for page transition."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:638
-#: config/./grids/class-vc-grids-common.php:1011
+#: config/./grids/class-vc-grids-common.php:640
+#: config/./grids/class-vc-grids-common.php:1013
 msgid "Animation Out"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:648
-#: config/./grids/class-vc-grids-common.php:1021
+#: config/./grids/class-vc-grids-common.php:650
+#: config/./grids/class-vc-grids-common.php:1023
 msgid "Select \"animation out\" for page transition."
-msgstr ""
-
-#: config/./grids/class-vc-grids-common.php:652
-#: config/./grids/class-vc-grids-common.php:1025
-msgid "Grid element template"
 msgstr ""
 
 #: config/./grids/class-vc-grids-common.php:654
 #: config/./grids/class-vc-grids-common.php:1027
+msgid "Grid element template"
+msgstr ""
+
+#: config/./grids/class-vc-grids-common.php:656
+#: config/./grids/class-vc-grids-common.php:1029
 #, php-format
 msgid ""
 "%sCreate new%s template or %smodify selected%s. Predefined templates will be "
 "cloned."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:655
-#: config/./grids/class-vc-grids-common.php:1028
+#: config/./grids/class-vc-grids-common.php:657
+#: config/./grids/class-vc-grids-common.php:1030
 msgid "Item Design"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:664
-#: config/./grids/class-vc-grids-common.php:1095
-#: config/./grids/class-vc-grids-common.php:1128
-#: config/./grids/class-vc-grids-common.php:1178
+#: config/./grids/class-vc-grids-common.php:666
+#: config/./grids/class-vc-grids-common.php:1097
+#: config/./grids/class-vc-grids-common.php:1130
+#: config/./grids/class-vc-grids-common.php:1180
 msgid "Initial loading animation"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:673
-#: config/./grids/class-vc-grids-common.php:1104
-#: config/./grids/class-vc-grids-common.php:1136
-#: config/./grids/class-vc-grids-common.php:1192
+#: config/./grids/class-vc-grids-common.php:675
+#: config/./grids/class-vc-grids-common.php:1106
+#: config/./grids/class-vc-grids-common.php:1138
+#: config/./grids/class-vc-grids-common.php:1194
 msgid "Select initial loading animation for grid element."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:697
-#: config/./grids/class-vc-grids-common.php:826
-#: config/./grids/class-vc-grids-common.php:1057
+#: config/./grids/class-vc-grids-common.php:699
+#: config/./grids/class-vc-grids-common.php:828
+#: config/./grids/class-vc-grids-common.php:1059
 msgid "Button style"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:706
-#: config/./grids/class-vc-grids-common.php:835
-#: config/./grids/class-vc-grids-common.php:1066
+#: config/./grids/class-vc-grids-common.php:708
+#: config/./grids/class-vc-grids-common.php:837
+#: config/./grids/class-vc-grids-common.php:1068
 msgid "Select button style."
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:710
-#: config/./grids/class-vc-grids-common.php:839
-#: config/./grids/class-vc-grids-common.php:1070
+#: config/./grids/class-vc-grids-common.php:712
+#: config/./grids/class-vc-grids-common.php:841
+#: config/./grids/class-vc-grids-common.php:1072
 msgid "Button color"
 msgstr ""
 
-#: config/./grids/class-vc-grids-common.php:723
-#: config/./grids/class-vc-grids-common.php:852
-#: config/./grids/class-vc-grids-common.php:1083
-#: config/./social/shortcode-vc-googleplus.php:15
-msgid "Button size"
-msgstr ""
-
-#: config/./grids/class-vc-grids-common.php:1133
-#: config/./grids/class-vc-grids-common.php:1183
+#: config/./grids/class-vc-grids-common.php:1135
+#: config/./grids/class-vc-grids-common.php:1185
 msgid "Fade In"
 msgstr ""
 
@@ -4692,13 +4740,6 @@ msgstr ""
 msgid "Facebook Like"
 msgstr ""
 
-#: config/./social/shortcode-vc-facebook.php:10
-#: config/./social/shortcode-vc-googleplus.php:10
-#: config/./social/shortcode-vc-pinterest.php:10
-#: config/./social/shortcode-vc-tweetmeme.php:10
-msgid "Social"
-msgstr ""
-
 #: config/./social/shortcode-vc-facebook.php:11
 msgid "Facebook \"Like\" button"
 msgstr ""
@@ -4718,41 +4759,6 @@ msgstr ""
 
 #: config/./social/shortcode-vc-facebook.php:23
 msgid "Select button type."
-msgstr ""
-
-#: config/./social/shortcode-vc-googleplus.php:7
-msgid "Google+ Button"
-msgstr ""
-
-#: config/./social/shortcode-vc-googleplus.php:11
-msgid "Recommend on Google"
-msgstr ""
-
-#: config/./social/shortcode-vc-googleplus.php:19
-msgid "Standard"
-msgstr ""
-
-#: config/./social/shortcode-vc-googleplus.php:22
-msgid "Tall"
-msgstr ""
-
-#: config/./social/shortcode-vc-googleplus.php:28
-msgid "Annotation"
-msgstr ""
-
-#: config/./social/shortcode-vc-googleplus.php:32
-msgid "Bubble"
-msgstr ""
-
-#: config/./social/shortcode-vc-googleplus.php:37
-msgid "Select type of annotation."
-msgstr ""
-
-#: config/./social/shortcode-vc-googleplus.php:47
-msgid ""
-"Minimum width of 120px to display. If annotation is set to \"inline\", this "
-"parameter sets the width in pixels to use for button and its inline "
-"annotation. Default width is 450px."
 msgstr ""
 
 #: config/./social/shortcode-vc-pinterest.php:7
@@ -4989,7 +4995,7 @@ msgid "Raw HTML"
 msgstr ""
 
 #: config/./structure/shortcode-vc-raw-html.php:10
-#: config/./structure/shortcode-vc-raw-js.php:10
+#: config/./structure/shortcode-vc-raw-js.php:11
 #: config/./structure/shortcode-vc-widget-sidebar.php:11
 msgid "Structure"
 msgstr ""
@@ -5002,23 +5008,23 @@ msgstr ""
 msgid "Enter your HTML content."
 msgstr ""
 
-#: config/./structure/shortcode-vc-raw-js.php:7
+#: config/./structure/shortcode-vc-raw-js.php:8
 msgid "Raw JS"
 msgstr ""
 
-#: config/./structure/shortcode-vc-raw-js.php:12
+#: config/./structure/shortcode-vc-raw-js.php:13
 msgid "Output raw JavaScript code on your page"
 msgstr ""
 
-#: config/./structure/shortcode-vc-raw-js.php:17
+#: config/./structure/shortcode-vc-raw-js.php:18
 msgid "JavaScript Code"
 msgstr ""
 
-#: config/./structure/shortcode-vc-raw-js.php:20
+#: config/./structure/shortcode-vc-raw-js.php:21
 msgid "Enter your js here!"
 msgstr ""
 
-#: config/./structure/shortcode-vc-raw-js.php:21
+#: config/./structure/shortcode-vc-raw-js.php:22
 msgid "Enter your JavaScript code."
 msgstr ""
 
@@ -5546,7 +5552,7 @@ msgstr ""
 
 #: config/./tta/shortcode-vc-tta-tabs.php:211
 #: config/./tta/shortcode-vc-tta-tabs.php:212
-#: include/./classes/core/class-vc-base.php:786
+#: include/./classes/core/class-vc-base.php:702
 #: include/./classes/shortcodes/vc-tab.php:6
 msgid "Tab"
 msgstr ""
@@ -5883,7 +5889,7 @@ msgid "Your most used tags in cloud format"
 msgstr ""
 
 #: config/./wp/shortcode-vc-wp-tagcloud.php:32
-#: include/./params/loop/loop.php:332
+#: include/./params/loop/loop.php:337
 msgid "Tags"
 msgstr ""
 
@@ -6069,7 +6075,7 @@ msgid ""
 "required to review and save it."
 msgstr ""
 
-#: include/./autoload/vc-pages/page-design-options.php:50
+#: include/./autoload/vc-pages/page-design-options.php:51
 msgid "Open Design Options"
 msgstr ""
 
@@ -6083,14 +6089,15 @@ msgstr ""
 
 #: include/./autoload/vc-pages/pages.php:50
 #: include/./autoload/vc-pages/pages.php:63
-#: include/./classes/core/class-vc-base.php:775
+#: include/./classes/core/class-vc-base.php:691
 #: include/./classes/editors/class-vc-backend-editor.php:92
 #: include/./classes/editors/navbar/class-vc-navbar.php:98
+#: include/./classes/updaters/class-vc-updater.php:129
 msgid "WPBakery Page Builder"
 msgstr ""
 
 #: include/./autoload/vc-pages/welcome-screen.php:38
-#: include/./classes/core/class-vc-base.php:642
+#: include/./classes/core/class-vc-base.php:568
 msgid "About"
 msgstr ""
 
@@ -6103,47 +6110,47 @@ msgstr ""
 msgid "Resources"
 msgstr ""
 
-#: include/./autoload/vc-pointers-backend-editor.php:33
+#: include/./autoload/vc-pointers-backend-editor.php:38
 msgid "Welcome to WPBakery Page Builder"
 msgstr ""
 
-#: include/./autoload/vc-pointers-backend-editor.php:34
+#: include/./autoload/vc-pointers-backend-editor.php:38
 msgid "Choose Backend or Frontend editor."
 msgstr ""
 
-#: include/./autoload/vc-pointers-backend-editor.php:47
+#: include/./autoload/vc-pointers-backend-editor.php:49
 #: include/./autoload/vc-pointers-frontend-editor.php:28
 msgid "Add Elements"
 msgstr ""
 
-#: include/./autoload/vc-pointers-backend-editor.php:48
+#: include/./autoload/vc-pointers-backend-editor.php:49
 #: include/./autoload/vc-pointers-frontend-editor.php:28
 msgid "Add new element or start with a template."
 msgstr ""
 
-#: include/./autoload/vc-pointers-backend-editor.php:63
+#: include/./autoload/vc-pointers-backend-editor.php:62
 #: include/./autoload/vc-pointers-frontend-editor.php:40
 msgid "Rows and Columns"
 msgstr ""
 
-#: include/./autoload/vc-pointers-backend-editor.php:64
+#: include/./autoload/vc-pointers-backend-editor.php:62
 #: include/./autoload/vc-pointers-frontend-editor.php:40
 msgid ""
 "This is a row container. Divide it into columns and style it. You can add "
 "elements into columns."
 msgstr ""
 
-#: include/./autoload/vc-pointers-backend-editor.php:79
+#: include/./autoload/vc-pointers-backend-editor.php:75
 #: include/./autoload/vc-pointers-frontend-editor.php:53
 msgid "Control Elements"
 msgstr ""
 
-#: include/./autoload/vc-pointers-backend-editor.php:80
+#: include/./autoload/vc-pointers-backend-editor.php:75
 #: include/./autoload/vc-pointers-frontend-editor.php:53
 msgid "You can edit your element at any time and drag it around your layout."
 msgstr ""
 
-#: include/./autoload/vc-pointers-backend-editor.php:81
+#: include/./autoload/vc-pointers-backend-editor.php:75
 #: include/./autoload/vc-pointers-frontend-editor.php:53
 #, php-format
 msgid "P.S. Learn more at our %sKnowledge Base%s."
@@ -6153,55 +6160,55 @@ msgstr ""
 msgid "No Gravity forms found."
 msgstr ""
 
-#: include/./autoload/vendors/gravity_forms.php:26
+#: include/./autoload/vendors/gravity_forms.php:27
 msgid "Select a form to display."
 msgstr ""
 
-#: include/./autoload/vendors/gravity_forms.php:33
+#: include/./autoload/vendors/gravity_forms.php:34
 msgid "Gravity Form"
 msgstr ""
 
-#: include/./autoload/vendors/gravity_forms.php:37
+#: include/./autoload/vendors/gravity_forms.php:38
 msgid "Place Gravity form"
 msgstr ""
 
-#: include/./autoload/vendors/gravity_forms.php:41
+#: include/./autoload/vendors/gravity_forms.php:42
 msgid "Form"
 msgstr ""
 
-#: include/./autoload/vendors/gravity_forms.php:45
+#: include/./autoload/vendors/gravity_forms.php:46
 msgid "Select a form to add it to your post or page."
 msgstr ""
 
-#: include/./autoload/vendors/gravity_forms.php:50
+#: include/./autoload/vendors/gravity_forms.php:51
 msgid "Display Form Title"
 msgstr ""
 
-#: include/./autoload/vendors/gravity_forms.php:57
+#: include/./autoload/vendors/gravity_forms.php:58
 msgid "Would you like to display the forms title?"
 msgstr ""
 
-#: include/./autoload/vendors/gravity_forms.php:65
+#: include/./autoload/vendors/gravity_forms.php:66
 msgid "Display Form Description"
 msgstr ""
 
-#: include/./autoload/vendors/gravity_forms.php:72
+#: include/./autoload/vendors/gravity_forms.php:73
 msgid "Would you like to display the forms description?"
 msgstr ""
 
-#: include/./autoload/vendors/gravity_forms.php:80
+#: include/./autoload/vendors/gravity_forms.php:81
 msgid "Enable AJAX?"
 msgstr ""
 
-#: include/./autoload/vendors/gravity_forms.php:87
+#: include/./autoload/vendors/gravity_forms.php:88
 msgid "Enable AJAX submission?"
 msgstr ""
 
-#: include/./autoload/vendors/gravity_forms.php:95
+#: include/./autoload/vendors/gravity_forms.php:96
 msgid "Tab Index"
 msgstr ""
 
-#: include/./autoload/vendors/gravity_forms.php:97
+#: include/./autoload/vendors/gravity_forms.php:98
 msgid ""
 "(Optional) Specify the starting tab index for the fields of this form. Leave "
 "blank if you're not sure what this is."
@@ -6216,7 +6223,7 @@ msgid "Disable Gutenberg Editor."
 msgstr ""
 
 #: include/./autoload/vendors/shortcode-vc-gutenberg.php:7
-#: include/./classes/core/class-vc-base.php:779
+#: include/./classes/core/class-vc-base.php:695
 msgid "Gutenberg Editor"
 msgstr ""
 
@@ -6224,280 +6231,280 @@ msgstr ""
 msgid "Insert Gutenberg editor in your layout"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:638
+#: include/./classes/core/class-vc-base.php:564
 #: include/./templates/pages/vc-settings/index.php:7
 msgid "WPBakery Page Builder Settings"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:639
-#: include/./classes/core/class-vc-base.php:774
-#: include/./templates/pages/vc-welcome/index.php:26
+#: include/./classes/core/class-vc-base.php:565
+#: include/./classes/core/class-vc-base.php:690
+#: include/./templates/pages/vc-welcome/index.php:27
 msgid "Settings"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:641
+#: include/./classes/core/class-vc-base.php:567
 msgid "About WPBakery Page Builder"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:770
+#: include/./classes/core/class-vc-base.php:686
 msgid "Add/remove picture"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:771
+#: include/./classes/core/class-vc-base.php:687
 msgid "Finish Adding Images"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:772
+#: include/./classes/core/class-vc-base.php:688
 msgid "Add Image"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:773
+#: include/./classes/core/class-vc-base.php:689
 msgid "Add Images"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:776
+#: include/./classes/core/class-vc-base.php:692
 #: include/./classes/editors/navbar/class-vc-navbar-frontend.php:101
 msgid "Backend Editor"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:777
+#: include/./classes/core/class-vc-base.php:693
 msgid "Frontend Editor"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:778
+#: include/./classes/core/class-vc-base.php:694
 msgid "Classic Mode"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:780
+#: include/./classes/core/class-vc-base.php:696
 msgid "Enter template name you want to save."
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:781
+#: include/./classes/core/class-vc-base.php:697
 msgid ""
 "Confirm deleting \"{template_name}\" template, press Cancel to leave. This "
 "action cannot be undone."
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:782
+#: include/./classes/core/class-vc-base.php:698
 msgid "Press OK to delete section, Cancel to leave"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:783
+#: include/./classes/core/class-vc-base.php:699
 msgid "Drag and drop me in the column"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:784
+#: include/./classes/core/class-vc-base.php:700
 msgid "Press OK to delete \"{tab_name}\" tab, Cancel to leave"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:785
+#: include/./classes/core/class-vc-base.php:701
 #: include/./classes/shortcodes/vc-tour.php:23
 msgid "Slide"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:788
+#: include/./classes/core/class-vc-base.php:704
 msgid "Please enter new tab title"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:789
+#: include/./classes/core/class-vc-base.php:705
 msgid "Press OK to delete \"{tab_name}\" section, Cancel to leave"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:791
+#: include/./classes/core/class-vc-base.php:707
 msgid "Please enter new section title"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:792
+#: include/./classes/core/class-vc-base.php:708
 msgid "Error. Please try again."
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:793
+#: include/./classes/core/class-vc-base.php:709
 msgid ""
 "If you close this window all shortcode settings will be lost. Close this "
 "window?"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:794
+#: include/./classes/core/class-vc-base.php:710
 msgid "Select element type"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:795
+#: include/./classes/core/class-vc-base.php:711
 msgid "Media gallery"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:796
+#: include/./classes/core/class-vc-base.php:712
 msgid "Element settings"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:797
+#: include/./classes/core/class-vc-base.php:713
 msgid "Add tab"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:798
+#: include/./classes/core/class-vc-base.php:714
 msgid "Are you sure you want to convert to new version?"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:799
+#: include/./classes/core/class-vc-base.php:715
 msgid "Loading..."
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:801
+#: include/./classes/core/class-vc-base.php:717
 msgid "Set Image"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:802
+#: include/./classes/core/class-vc-base.php:718
 msgid "Are you sure that you want to remove all your data?"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:803
+#: include/./classes/core/class-vc-base.php:719
 msgid "Loop settings"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:804
+#: include/./classes/core/class-vc-base.php:720
 msgid "Custom row layout"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:805
+#: include/./classes/core/class-vc-base.php:721
 msgid "Wrong row layout format! Example: 1/2 + 1/2 or span6 + span6."
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:806
+#: include/./classes/core/class-vc-base.php:722
 msgid "Row background color"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:807
+#: include/./classes/core/class-vc-base.php:723
 msgid "Row background image"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:808
+#: include/./classes/core/class-vc-base.php:724
 msgid "Column background color"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:809
+#: include/./classes/core/class-vc-base.php:725
 msgid "Column background image"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:810
+#: include/./classes/core/class-vc-base.php:726
 msgid "Guides ON"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:811
+#: include/./classes/core/class-vc-base.php:727
 msgid "Guides OFF"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:812
+#: include/./classes/core/class-vc-base.php:728
 msgid "New template successfully saved."
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:813
+#: include/./classes/core/class-vc-base.php:729
 msgid "Template added to the page."
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:814
+#: include/./classes/core/class-vc-base.php:730
 msgid ""
 "Template added to the page. Template has ID attributes, make sure that they "
 "are not used more than once on the same page."
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:815
+#: include/./classes/core/class-vc-base.php:731
 msgid "Template successfully removed."
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:816
+#: include/./classes/core/class-vc-base.php:732
 msgid "Template is empty: There is no content to be saved as a template."
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:817
+#: include/./classes/core/class-vc-base.php:733
 msgid "Error while saving template."
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:818
+#: include/./classes/core/class-vc-base.php:734
 msgid "Page settings updated!"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:819
+#: include/./classes/core/class-vc-base.php:735
 msgid "Update all"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:820
+#: include/./classes/core/class-vc-base.php:736
 msgid "The changes you made will be lost if you navigate away from this page."
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:821
+#: include/./classes/core/class-vc-base.php:737
 #, php-format
 msgid "%s saved!"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:822
+#: include/./classes/core/class-vc-base.php:738
 #, php-format
 msgid "%s deleted!"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:823
+#: include/./classes/core/class-vc-base.php:739
 #, php-format
 msgid "%%s cloned. %sEdit now?%s"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:824
+#: include/./classes/core/class-vc-base.php:740
 msgid "Loading Google Font failed"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:825
+#: include/./classes/core/class-vc-base.php:741
 msgid "Loading Font..."
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:826
+#: include/./classes/core/class-vc-base.php:742
 msgid "Unable to load Google Fonts"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:827
+#: include/./classes/core/class-vc-base.php:743
 msgid "no title"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:828
+#: include/./classes/core/class-vc-base.php:744
 msgid ""
 "Error while applying filter to the image. Check your server and memory "
 "settings."
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:829
+#: include/./classes/core/class-vc-base.php:745
 msgid "Saved!"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:830
+#: include/./classes/core/class-vc-base.php:746
 msgid "Failed to Save!"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:831
+#: include/./classes/core/class-vc-base.php:747
 msgid "You are about to delete this preset. This action can not be undone."
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:832
+#: include/./classes/core/class-vc-base.php:748
 msgid "Downloaded"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:833
+#: include/./classes/core/class-vc-base.php:749
 #: include/./classes/editors/navbar/class-vc-navbar-frontend.php:132
 #: include/./classes/editors/navbar/class-vc-navbar.php:177
 #: include/./params/vc_grid_item/editor/navbar/class-vc-navbar-grid-item.php:51
-#: include/./templates/editors/popups/vc_ui-panel-row-layout.tpl.php:36
+#: include/./templates/editors/popups/vc_ui-panel-row-layout.tpl.php:34
 #: include/./templates/pages/vc-welcome/vc-faq.php:36
 msgid "Update"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:834
+#: include/./classes/core/class-vc-base.php:750
 msgid "Failed to download template"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:835
+#: include/./classes/core/class-vc-base.php:751
 msgid "Element successfully removed."
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:836
+#: include/./classes/core/class-vc-base.php:752
 msgid "Successfully updated!"
 msgstr ""
 
-#: include/./classes/core/class-vc-base.php:837
+#: include/./classes/core/class-vc-base.php:753
 msgid "Gutenberg plugin doesn't work properly. Please check Gutenberg plugin."
 msgstr ""
 
@@ -6547,10 +6554,6 @@ msgstr ""
 
 #: include/./classes/core/class-wpb-map.php:166
 #: include/./classes/core/class-wpb-map.php:182
-#: include/./classes/core/class-wpb-map.php:555
-#: include/./classes/core/class-wpb-map.php:603
-#: include/./classes/core/class-wpb-map.php:658
-#: include/./classes/core/class-wpb-map.php:774
 #, php-format
 msgid "Wrong name for shortcode:%s. Name required"
 msgstr ""
@@ -6561,13 +6564,13 @@ msgstr ""
 msgid "Wrong base for shortcode:%s. Base required"
 msgstr ""
 
-#: include/./classes/core/class-wpb-map.php:605
-#: include/./classes/core/class-wpb-map.php:660
+#: include/./classes/core/class-wpb-map.php:607
+#: include/./classes/core/class-wpb-map.php:667
 #, php-format
 msgid "Wrong attribute for '%s' shortcode. Attribute 'param_name' required"
 msgstr ""
 
-#: include/./classes/core/class-wpb-map.php:776
+#: include/./classes/core/class-wpb-map.php:784
 #, php-format
 msgid "Wrong setting_name for shortcode:%s. Base can't be modified."
 msgstr ""
@@ -6634,15 +6637,15 @@ msgid "Remote file is too large, limit is %s"
 msgstr ""
 
 #: include/./classes/core/shared-templates/importer/class-vc-wxr-parser-regex.php:104
-#: include/./classes/core/shared-templates/importer/class-vc-wxr-parser-simplexml.php:49
-#: include/./classes/core/shared-templates/importer/class-vc-wxr-parser-simplexml.php:55
-#: include/./classes/core/shared-templates/importer/class-vc-wxr-parser-xml.php:107
+#: include/./classes/core/shared-templates/importer/class-vc-wxr-parser-simplexml.php:53
+#: include/./classes/core/shared-templates/importer/class-vc-wxr-parser-simplexml.php:59
+#: include/./classes/core/shared-templates/importer/class-vc-wxr-parser-xml.php:110
 msgid ""
 "This does not appear to be a WXR file, missing/invalid WXR version number"
 msgstr ""
 
-#: include/./classes/core/shared-templates/importer/class-vc-wxr-parser-simplexml.php:36
-#: include/./classes/core/shared-templates/importer/class-vc-wxr-parser-simplexml.php:44
+#: include/./classes/core/shared-templates/importer/class-vc-wxr-parser-simplexml.php:40
+#: include/./classes/core/shared-templates/importer/class-vc-wxr-parser-simplexml.php:48
 #: include/./classes/core/shared-templates/importer/class-vc-wxr-parser.php:56
 msgid "There was an error when reading this WXR file"
 msgstr ""
@@ -6653,34 +6656,34 @@ msgid ""
 "parser..."
 msgstr ""
 
-#: include/./classes/editors/class-vc-edit-form-fields.php:161
+#: include/./classes/editors/class-vc-edit-form-fields.php:162
 msgid "General"
 msgstr ""
 
-#: include/./classes/editors/class-vc-edit-form-fields.php:222
+#: include/./classes/editors/class-vc-edit-form-fields.php:223
 #, php-format
 msgid "You are using outdated element, it is deprecated since version %s."
 msgstr ""
 
-#: include/./classes/editors/class-vc-edit-form-fields.php:224
+#: include/./classes/editors/class-vc-edit-form-fields.php:225
 #: include/./classes/editors/navbar/class-vc-navbar-frontend.php:101
-#: include/./classes/settings/automapper/class-vc-automapper.php:254
+#: include/./classes/settings/automapper/class-vc-automapper.php:268
 #: include/./templates/pages/partials/vc-roles-parts/_shortcodes.tpl.php:27
 msgid "Edit"
 msgstr ""
 
-#: include/./classes/editors/class-vc-frontend-editor.php:467
+#: include/./classes/editors/class-vc-frontend-editor.php:472
 #, php-format
 msgid "Edit %s with WPBakery Page Builder"
 msgstr ""
 
-#: include/./classes/editors/class-vc-frontend-editor.php:476
+#: include/./classes/editors/class-vc-frontend-editor.php:481
 msgid "(no title)"
 msgstr ""
 
-#: include/./classes/editors/class-vc-frontend-editor.php:494
-#: include/./classes/editors/class-vc-frontend-editor.php:510
-#: include/./classes/editors/class-vc-frontend-editor.php:555
+#: include/./classes/editors/class-vc-frontend-editor.php:499
+#: include/./classes/editors/class-vc-frontend-editor.php:515
+#: include/./classes/editors/class-vc-frontend-editor.php:560
 msgid "Edit with WPBakery Page Builder"
 msgstr ""
 
@@ -6804,7 +6807,7 @@ msgid "Save layout and reuse it on different sections of this site."
 msgstr ""
 
 #: include/./classes/editors/popups/class-vc-templates-panel-editor.php:189
-#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:232
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:216
 #: include/./params/vc_grid_item/editor/popups/class-vc-templates-editor-grid-item.php:87
 #: include/./params/vc_grid_item/editor/popups/class-vc-templates-editor-grid-item.php:88
 #: include/./templates/editors/popups/shared-templates/category.tpl.php:135
@@ -6812,39 +6815,39 @@ msgid "Preview template"
 msgstr ""
 
 #: include/./classes/editors/popups/class-vc-templates-panel-editor.php:190
-#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:233
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:217
 #: include/./templates/editors/partials/vc_welcome_block.tpl.php:52
 #: include/./templates/editors/popups/shared-templates/category.tpl.php:121
 #: include/./templates/editors/popups/shared-templates/category.tpl.php:123
 msgid "Add template"
 msgstr ""
 
-#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:193
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:194
 #: include/./templates/editors/popups/shared-templates/category.tpl.php:129
 msgid "Delete template"
 msgstr ""
 
-#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:416
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:400
 msgid "Error: wrong template id."
 msgstr ""
 
-#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:539
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:523
 msgid "My Templates"
 msgstr ""
 
-#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:540
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:524
 msgid "Append previously saved template to the current layout."
 msgstr ""
 
-#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:563
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:547
 msgid "Default Templates"
 msgstr ""
 
-#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:564
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:548
 msgid "Append default template to the current layout."
 msgstr ""
 
-#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:847
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:831
 msgid "No title"
 msgstr ""
 
@@ -6853,167 +6856,167 @@ msgstr ""
 msgid "Shortcode Mapper"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:54
+#: include/./classes/settings/automapper/class-vc-automapper.php:66
 msgid ""
 "WPBakery Page Builder Shortcode Mapper adds custom 3rd party vendors "
 "shortcodes to the list of WPBakery Page Builder content elements menu (Note: "
 "to map shortcode it needs to be installed on site)."
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:58
+#: include/./classes/settings/automapper/class-vc-automapper.php:70
 msgid "Map Shortcode"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:81
+#: include/./classes/settings/automapper/class-vc-automapper.php:94
 msgid "Shortcode string"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:86
+#: include/./classes/settings/automapper/class-vc-automapper.php:99
 msgid "Please enter valid shortcode"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:91
+#: include/./classes/settings/automapper/class-vc-automapper.php:104
 msgid "Parse Shortcode"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:92
-#: include/./classes/settings/automapper/class-vc-automapper.php:153
+#: include/./classes/settings/automapper/class-vc-automapper.php:105
+#: include/./classes/settings/automapper/class-vc-automapper.php:166
 msgid "Cancel"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:96
+#: include/./classes/settings/automapper/class-vc-automapper.php:109
 msgid ""
 "Enter valid shortcode (Example: [my_shortcode first_param=\"first_param_value"
 "\"]My shortcode content[/my_shortcode])."
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:102
+#: include/./classes/settings/automapper/class-vc-automapper.php:115
 msgid "Edit widget: Search"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:119
+#: include/./classes/settings/automapper/class-vc-automapper.php:132
 msgid "General Information"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:122
+#: include/./classes/settings/automapper/class-vc-automapper.php:135
 msgid "Tag:"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:126
+#: include/./classes/settings/automapper/class-vc-automapper.php:139
 msgid "Description:"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:130
+#: include/./classes/settings/automapper/class-vc-automapper.php:143
 msgid "Category:"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:133
+#: include/./classes/settings/automapper/class-vc-automapper.php:146
 msgid "Comma separated categories names"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:138
+#: include/./classes/settings/automapper/class-vc-automapper.php:151
 msgid "Include content param into shortcode"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:144
+#: include/./classes/settings/automapper/class-vc-automapper.php:157
 msgid "Shortcode Parameters"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:146
+#: include/./classes/settings/automapper/class-vc-automapper.php:159
 msgid "Add Param"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:152
+#: include/./classes/settings/automapper/class-vc-automapper.php:165
 #: include/./classes/settings/class-vc-settings.php:447
 #: include/./templates/editors/popups/modal_edit_element.tpl.php:21
 #: include/./templates/editors/popups/panel_multi_shortcode_edit_form.tpl.php:17
 #: include/./templates/editors/popups/panel_shortcode_edit_form.tpl.php:22
-#: include/./templates/pages/vc-settings/tab-vc-roles.php:89
-#: include/./templates/pages/vc-settings/tab.php:66
+#: include/./templates/pages/vc-settings/tab-vc-roles.php:85
+#: include/./templates/pages/vc-settings/tab.php:62
 msgid "Save Changes"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:154
-#: include/./classes/settings/automapper/class-vc-automapper.php:253
+#: include/./classes/settings/automapper/class-vc-automapper.php:167
+#: include/./classes/settings/automapper/class-vc-automapper.php:267
 msgid "Delete"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:160
+#: include/./classes/settings/automapper/class-vc-automapper.php:173
 #: include/./classes/shortcodes/vc-row.php:70
 #: include/./classes/shortcodes/vc-section.php:57
-#: include/./params/vc_grid_element/vc_grid_element.php:186
+#: include/./params/vc_grid_element/vc_grid_element.php:187
 #: include/./templates/params/param_group/inner_content.tpl.php:7
 msgid "Drag row to reorder"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:163
+#: include/./classes/settings/automapper/class-vc-automapper.php:176
 #: include/./templates/params/param_group/inner_content.tpl.php:10
 msgid "Delete this param"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:171
+#: include/./classes/settings/automapper/class-vc-automapper.php:184
 msgid "Param name"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:176
-#: include/./classes/settings/automapper/class-vc-automapper.php:183
+#: include/./classes/settings/automapper/class-vc-automapper.php:189
+#: include/./classes/settings/automapper/class-vc-automapper.php:196
 msgid "Required value"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:180
+#: include/./classes/settings/automapper/class-vc-automapper.php:193
 msgid "Use only letters, numbers and underscore."
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:186
+#: include/./classes/settings/automapper/class-vc-automapper.php:199
 msgid "Please use only letters, numbers and underscore."
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:192
+#: include/./classes/settings/automapper/class-vc-automapper.php:205
 msgid "Input heading"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:197
+#: include/./classes/settings/automapper/class-vc-automapper.php:210
 msgid "Heading for field in shortcode edit form."
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:200
+#: include/./classes/settings/automapper/class-vc-automapper.php:213
 msgid "Field type"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:202
+#: include/./classes/settings/automapper/class-vc-automapper.php:215
 msgid "Select field type"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:204
+#: include/./classes/settings/automapper/class-vc-automapper.php:217
 msgid "Textfield"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:208
+#: include/./classes/settings/automapper/class-vc-automapper.php:221
 msgid "Textarea"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:211
+#: include/./classes/settings/automapper/class-vc-automapper.php:224
 msgid "Textarea HTML"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:214
+#: include/./classes/settings/automapper/class-vc-automapper.php:227
 msgid "Hidden"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:218
+#: include/./classes/settings/automapper/class-vc-automapper.php:231
 msgid "Field type for shortcode edit form."
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:221
+#: include/./classes/settings/automapper/class-vc-automapper.php:234
 msgid "Default value"
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:224
+#: include/./classes/settings/automapper/class-vc-automapper.php:237
 msgid ""
 "Default value or list of values for dropdown type (Note: separate by comma)."
 msgstr ""
 
-#: include/./classes/settings/automapper/class-vc-automapper.php:234
+#: include/./classes/settings/automapper/class-vc-automapper.php:247
 msgid "Enter description for parameter."
 msgstr ""
 
@@ -7052,14 +7055,14 @@ msgstr ""
 msgid "Invalid license key"
 msgstr ""
 
-#: include/./classes/settings/class-vc-license.php:439
+#: include/./classes/settings/class-vc-license.php:441
 #, php-format
 msgid ""
 "Hola! Would you like to receive automatic updates and unlock premium "
 "support? Please %sactivate your copy%s of WPBakery Page Builder."
 msgstr ""
 
-#: include/./classes/settings/class-vc-license.php:439
+#: include/./classes/settings/class-vc-license.php:441
 msgid "Dismiss this notice."
 msgstr ""
 
@@ -7216,47 +7219,47 @@ msgstr ""
 msgid "Please enter valid shortcode to parse!"
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:484
+#: include/./classes/settings/class-vc-settings.php:483
 msgid "Add custom CSS code to the plugin without modifying files."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:503
+#: include/./classes/settings/class-vc-settings.php:501
 msgid ""
 "Disable content elements from \"stacking\" one on top other on small media "
 "screens (Example: mobile devices)."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:527
+#: include/./classes/settings/class-vc-settings.php:525
 msgid "Select subsets for Google Fonts available to content elements."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:610
+#: include/./classes/settings/class-vc-settings.php:608
 msgid "Enable"
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:612
+#: include/./classes/settings/class-vc-settings.php:610
 msgid ""
 "Enable the use of custom design options (Note: when checked - custom css "
 "file will be used)."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:634
+#: include/./classes/settings/class-vc-settings.php:632
 msgid ""
 "Change default vertical spacing between content elements (Example: 20px)."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:645
+#: include/./classes/settings/class-vc-settings.php:643
 msgid ""
 "Change default horizontal spacing between columns, enter new value in pixels."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:656
+#: include/./classes/settings/class-vc-settings.php:654
 msgid ""
 "By default content elements \"stack\" one on top other when screen size is "
 "smaller than 768px. Change the value to change \"stacking\" size."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:684
+#: include/./classes/settings/class-vc-settings.php:682
 msgid ""
 "Here you can tweak default WPBakery Page Builder content elements visual "
 "appearance. By default WPBakery Page Builder is using neutral light-grey "
@@ -7264,78 +7267,71 @@ msgid ""
 "specific \"content block\" related color is set."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:761
+#: include/./classes/settings/class-vc-settings.php:759
 msgid "Invalid Margin value."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:775
+#: include/./classes/settings/class-vc-settings.php:773
 msgid "Invalid Gutter value."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:788
+#: include/./classes/settings/class-vc-settings.php:786
 msgid "Invalid \"Responsive max\" value."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:878
+#: include/./classes/settings/class-vc-settings.php:876
 msgid ""
 "Something went wrong: js_composer_front_custom.css could not be created."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:880
+#: include/./classes/settings/class-vc-settings.php:878
 msgid "js_composer_front_custom.css could not be created. Connection error."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:882
+#: include/./classes/settings/class-vc-settings.php:880
 #, php-format
 msgid ""
 "js_composer_front_custom.css could not be created. Cannot write custom css "
 "to \"%s\"."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:884
+#: include/./classes/settings/class-vc-settings.php:882
 msgid "js_composer_front_custom.css could not be created. Problem with access."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:924
+#: include/./classes/settings/class-vc-settings.php:922
 msgid "Something went wrong: custom.css could not be created."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:926
+#: include/./classes/settings/class-vc-settings.php:924
 msgid "custom.css could not be created. Connection error."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:928
+#: include/./classes/settings/class-vc-settings.php:926
 #, php-format
 msgid "custom.css could not be created. Cannot write custom css to %s."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:930
+#: include/./classes/settings/class-vc-settings.php:928
 msgid "custom.css could not be created. Problem with access."
 msgstr ""
 
-#: include/./classes/settings/class-vc-settings.php:951
+#: include/./classes/settings/class-vc-settings.php:949
 #, php-format
 msgid ""
 "%s could not be created. Not available to create js_composer directory in "
 "uploads directory (%s)."
 msgstr ""
 
-#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:270
-#, php-format
-msgid ""
-"Template file is missing for `%s` shortcode. Make sure you have `%s` file in "
-"your theme folder."
-msgstr ""
-
-#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:534
-#: include/./templates/editors/partials/backend_controls.tpl.php:35
+#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:540
+#: include/./templates/editors/partials/backend_controls.tpl.php:31
 #: include/./templates/editors/partials/backend_controls_tab.tpl.php:24
-#: include/./templates/editors/partials/frontend_controls.tpl.php:17
-#: include/./templates/editors/partials/frontend_controls.tpl.php:41
-#: include/./templates/editors/partials/frontend_controls.tpl.php:75
-#: include/./templates/editors/partials/frontend_controls.tpl.php:99
-#: include/./templates/editors/partials/frontend_controls.tpl.php:130
-#: include/./templates/editors/partials/frontend_controls.tpl.php:157
+#: include/./templates/editors/partials/frontend_controls.tpl.php:18
+#: include/./templates/editors/partials/frontend_controls.tpl.php:42
+#: include/./templates/editors/partials/frontend_controls.tpl.php:76
+#: include/./templates/editors/partials/frontend_controls.tpl.php:100
+#: include/./templates/editors/partials/frontend_controls.tpl.php:131
+#: include/./templates/editors/partials/frontend_controls.tpl.php:158
 #: include/./templates/editors/partials/frontend_controls.tpl.php:192
 #: include/./templates/editors/partials/frontend_controls.tpl.php:217
 #: include/./templates/editors/partials/frontend_controls.tpl.php:254
@@ -7344,13 +7340,13 @@ msgstr ""
 msgid "Edit %s"
 msgstr ""
 
-#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:535
-#: include/./templates/editors/partials/backend_controls.tpl.php:39
+#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:541
+#: include/./templates/editors/partials/backend_controls.tpl.php:35
 #: include/./templates/editors/partials/backend_controls_tab.tpl.php:28
-#: include/./templates/editors/partials/frontend_controls.tpl.php:22
-#: include/./templates/editors/partials/frontend_controls.tpl.php:47
-#: include/./templates/editors/partials/frontend_controls.tpl.php:81
-#: include/./templates/editors/partials/frontend_controls.tpl.php:139
+#: include/./templates/editors/partials/frontend_controls.tpl.php:23
+#: include/./templates/editors/partials/frontend_controls.tpl.php:48
+#: include/./templates/editors/partials/frontend_controls.tpl.php:82
+#: include/./templates/editors/partials/frontend_controls.tpl.php:140
 #: include/./templates/editors/partials/frontend_controls.tpl.php:199
 #: include/./templates/editors/partials/frontend_controls.tpl.php:223
 #: include/./templates/editors/partials/frontend_controls.tpl.php:262
@@ -7359,14 +7355,14 @@ msgstr ""
 msgid "Clone %s"
 msgstr ""
 
-#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:535
-#: include/./templates/editors/partials/backend_controls.tpl.php:43
+#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:541
+#: include/./templates/editors/partials/backend_controls.tpl.php:39
 #: include/./templates/editors/partials/backend_controls_tab.tpl.php:32
-#: include/./templates/editors/partials/frontend_controls.tpl.php:25
-#: include/./templates/editors/partials/frontend_controls.tpl.php:50
-#: include/./templates/editors/partials/frontend_controls.tpl.php:84
-#: include/./templates/editors/partials/frontend_controls.tpl.php:142
-#: include/./templates/editors/partials/frontend_controls.tpl.php:163
+#: include/./templates/editors/partials/frontend_controls.tpl.php:26
+#: include/./templates/editors/partials/frontend_controls.tpl.php:51
+#: include/./templates/editors/partials/frontend_controls.tpl.php:85
+#: include/./templates/editors/partials/frontend_controls.tpl.php:143
+#: include/./templates/editors/partials/frontend_controls.tpl.php:164
 #: include/./templates/editors/partials/frontend_controls.tpl.php:202
 #: include/./templates/editors/partials/frontend_controls.tpl.php:226
 #: include/./templates/editors/partials/frontend_controls.tpl.php:266
@@ -7405,20 +7401,20 @@ msgstr ""
 msgid "Delete this %s"
 msgstr ""
 
-#: include/./classes/shortcodes/vc-column.php:40
+#: include/./classes/shortcodes/vc-column.php:46
 msgid "Append to this column"
 msgstr ""
 
-#: include/./classes/shortcodes/vc-column.php:42
-#: include/./params/vc_grid_element/vc_grid_element.php:222
+#: include/./classes/shortcodes/vc-column.php:48
+#: include/./params/vc_grid_element/vc_grid_element.php:223
 msgid "Prepend to this column"
 msgstr ""
 
-#: include/./classes/shortcodes/vc-column.php:49
+#: include/./classes/shortcodes/vc-column.php:55
 msgid "Edit this column"
 msgstr ""
 
-#: include/./classes/shortcodes/vc-column.php:50
+#: include/./classes/shortcodes/vc-column.php:56
 msgid "Delete this column"
 msgstr ""
 
@@ -7429,7 +7425,7 @@ msgstr ""
 
 #: include/./classes/shortcodes/vc-gallery.php:73
 #: include/./classes/shortcodes/vc-media-grid.php:127
-#: include/./params/default_params.php:273
+#: include/./params/default_params.php:275
 msgid "Add images"
 msgstr ""
 
@@ -7516,7 +7512,7 @@ msgstr ""
 
 #: include/./classes/shortcodes/vc-row.php:76
 #: include/./classes/shortcodes/vc-section.php:63
-#: include/./params/vc_grid_element/vc_grid_element.php:192
+#: include/./params/vc_grid_element/vc_grid_element.php:193
 msgid "Delete this row"
 msgstr ""
 
@@ -7537,36 +7533,36 @@ msgid "Toggle row"
 msgstr ""
 
 #: include/./classes/shortcodes/vc-single-image.php:73
-#: include/./params/css_editor/css_editor.php:103
-#: include/./params/default_params.php:271
+#: include/./params/css_editor/css_editor.php:104
+#: include/./params/default_params.php:273
 msgid "Add image"
 msgstr ""
 
-#: include/./classes/updaters/class-vc-updater.php:140
+#: include/./classes/updaters/class-vc-updater.php:136
 msgid "Error! Can't connect to filesystem"
 msgstr ""
 
-#: include/./classes/updaters/class-vc-updater.php:149
+#: include/./classes/updaters/class-vc-updater.php:145
 #, php-format
 msgid ""
 "To receive automatic updates license activation is required. Please visit "
 "%sSettings%s to activate your WPBakery Page Builder."
 msgstr ""
 
-#: include/./classes/updaters/class-vc-updater.php:149
+#: include/./classes/updaters/class-vc-updater.php:145
 #: include/./classes/updaters/class-vc-updating-manager.php:204
 msgid "Got WPBakery Page Builder in theme?"
 msgstr ""
 
-#: include/./classes/updaters/class-vc-updater.php:152
+#: include/./classes/updaters/class-vc-updater.php:148
 msgid "Getting download link..."
 msgstr ""
 
-#: include/./classes/updaters/class-vc-updater.php:158
+#: include/./classes/updaters/class-vc-updater.php:154
 msgid "Download link could not be retrieved"
 msgstr ""
 
-#: include/./classes/updaters/class-vc-updater.php:165
+#: include/./classes/updaters/class-vc-updater.php:161
 msgid "Downloading package..."
 msgstr ""
 
@@ -7749,448 +7745,452 @@ msgstr ""
 msgid "Include"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:146
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:135
+msgid "Custom post__in"
+msgstr ""
+
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:147
 msgid "Cart"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:149
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:165
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:181
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:199
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:228
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:283
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:338
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:360
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:423
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:455
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:482
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:518
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:573
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:643
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:696
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:731
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:793
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:888
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:150
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:166
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:182
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:200
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:229
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:284
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:339
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:361
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:424
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:456
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:483
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:519
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:574
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:644
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:697
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:732
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:794
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:889
 msgid "WooCommerce"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:150
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:151
 msgid "Displays the cart contents"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:162
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:163
 msgid "Checkout"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:166
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:167
 msgid "Displays the checkout"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:178
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:179
 msgid "Order Tracking Form"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:182
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:183
 msgid "Lets a user see the status of an order"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:196
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:197
 msgid "My Account"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:200
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:201
 msgid "Shows the \"my account\" section"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:204
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:205
 msgid "Order count"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:208
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:209
 msgid ""
 "You can specify the number or order to show, it's set by default to 15 (use "
 "-1 to display all orders.)"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:225
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:226
 msgid "Recent products"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:229
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:230
 msgid "Lists recent products"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:233
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:288
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:523
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:648
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:701
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:736
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:798
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:893
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:234
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:289
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:524
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:649
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:702
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:737
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:799
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:894
 msgid "Per page"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:237
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:292
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:238
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:293
 msgid ""
 "The \"per_page\" shortcode determines how many products to show on the page"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:241
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:296
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:365
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:531
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:604
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:656
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:709
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:744
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:806
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:901
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:242
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:297
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:366
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:532
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:605
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:657
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:710
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:745
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:807
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:902
 msgid "Columns"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:245
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:300
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:246
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:301
 msgid ""
 "The columns attribute controls how many columns wide the products should be "
 "before wrapping."
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:255
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:310
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:545
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:590
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:670
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:758
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:820
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:915
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:256
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:311
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:546
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:591
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:671
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:759
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:821
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:916
 #, php-format
 msgid "Select how to sort retrieved products. More at %s."
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:265
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:320
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:555
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:600
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:680
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:768
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:830
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:925
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:266
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:321
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:556
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:601
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:681
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:769
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:831
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:926
 #, php-format
 msgid "Designates the ascending or descending order. More at %s."
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:280
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:281
 msgid "Featured products"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:284
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:285
 msgid "Display products set as \"featured\""
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:335
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:336
 #: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:20
 msgid "Product"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:339
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:340
 msgid "Show a single product by ID or SKU"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:343
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:428
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:460
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:487
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:344
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:429
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:461
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:488
 msgid "Select identificator"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:345
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:430
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:462
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:489
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:346
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:431
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:463
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:490
 msgid "Input product ID or product SKU or product title to see suggestions"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:357
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:392
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:358
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:393
 msgid "Products"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:361
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:362
 msgid "Show multiple products by ID or SKU."
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:378
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:379
 #, php-format
 msgid "Select how to sort retrieved products. More at %s. Default by Title"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:388
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:389
 #, php-format
 msgid ""
 "Designates the ascending or descending order. More at %s. Default by ASC"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:401
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:402
 msgid "Enter List of Products"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:420
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:421
 msgid "Add to cart"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:424
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:425
 msgid "Show multiple products by ID or SKU"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:438
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:439
 msgid "Wrapper inline style"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:452
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:453
 msgid "Add to cart URL"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:456
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:457
 msgid "Show URL on the add to cart button"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:479
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:480
 msgid "Product page"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:483
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:484
 msgid "Show single product by ID or SKU"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:515
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:516
 msgid "Product category"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:519
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:520
 msgid "Show multiple products in a category"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:527
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:652
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:705
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:740
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:802
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:528
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:653
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:706
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:741
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:803
 msgid "How much items per page to show"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:535
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:608
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:660
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:713
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:748
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:810
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:905
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:536
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:609
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:661
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:714
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:749
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:811
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:906
 msgid "How much columns grid"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:559
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:560
 msgid "Category"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:563
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:564
 msgid "Product category list"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:570
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:571
 msgid "Product categories"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:574
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:575
 msgid "Display product categories loop"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:578
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:612
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:579
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:613
 msgid "Number"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:580
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:581
 msgid "The `number` field is used to display the number of products."
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:614
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:615
 msgid "Hide empty"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:625
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:626
 msgid "List of product categories"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:640
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:641
 msgid "Sale products"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:644
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:732
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:645
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:733
 msgid "List all products on sale"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:693
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:694
 msgid "Best Selling Products"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:697
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:698
 msgid "List best selling products on sale"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:728
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:729
 msgid "Top Rated Products"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:790
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:791
 msgid "Product Attribute"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:794
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:795
 msgid "List products with an attribute shortcode"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:834
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:835
 msgid "Attribute"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:838
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:839
 msgid "List of product taxonomy attribute"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:846
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:847
 msgid "Taxonomy values"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:883
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:884
 msgid "Related Products"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:889
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:890
 msgid "List related products"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:897
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:898
 msgid ""
 "Please note: the \"per_page\" shortcode argument will determine how many "
 "products are shown on a page. This will not add pagination to the shortcode. "
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1268
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1304
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1367
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1404
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1481
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1269
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1305
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1368
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1405
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1482
 msgid "Id"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1268
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1296
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1359
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1473
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1269
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1297
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1360
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1474
 msgid "Sku"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1404
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1405
 msgid "Name"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1404
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1405
 msgid "Slug"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1498
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1499
 msgid "SKU"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1500
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1501
 msgid "Price"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1501
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1502
 msgid "Regular Price"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1502
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1503
 msgid "Sale Price"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1503
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1504
 msgid "Price html"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1504
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1505
 msgid "Reviews count"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1505
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1506
 msgid "Short description"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1506
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1507
 msgid "Dimensions"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1507
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1508
 msgid "Rating count"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1508
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1509
 msgid "Weight"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1509
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1510
 msgid "Is on sale"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1510
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1550
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1511
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1551
 msgid "Custom field"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1539
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1540
 msgid "Order number"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1540
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1541
 msgid "Currency"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1541
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1542
 msgid "Total"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1542
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1543
 msgid "Status"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1543
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1544
 msgid "Payment method"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1544
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1545
 msgid "Billing address city"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1545
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1546
 msgid "Billing address country"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1546
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1547
 msgid "Shipping address city"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1547
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1548
 msgid "Shipping address country"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1548
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1549
 msgid "Customer Note"
 msgstr ""
 
-#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1549
+#: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1550
 msgid "Customer API"
 msgstr ""
 
@@ -8247,11 +8247,11 @@ msgstr ""
 msgid "Order custom key"
 msgstr ""
 
-#: include/./helpers/helpers.php:289
+#: include/./helpers/helpers.php:291
 msgid "Added"
 msgstr ""
 
-#: include/./helpers/helpers.php:1228 include/./params/loop/loop.php:333
+#: include/./helpers/helpers.php:1223 include/./params/loop/loop.php:338
 msgid "Taxonomies"
 msgstr ""
 
@@ -8259,31 +8259,31 @@ msgstr ""
 msgid "Wrong vc_map object. Base attribute is required"
 msgstr ""
 
-#: include/./helpers/helpers_api.php:542
+#: include/./helpers/helpers_api.php:546
 msgid "CSS Animation"
 msgstr ""
 
-#: include/./helpers/helpers_api.php:552
+#: include/./helpers/helpers_api.php:556
 msgid "Top to bottom"
 msgstr ""
 
-#: include/./helpers/helpers_api.php:553
+#: include/./helpers/helpers_api.php:557
 msgid "Bottom to top"
 msgstr ""
 
-#: include/./helpers/helpers_api.php:554
+#: include/./helpers/helpers_api.php:558
 msgid "Left to right"
 msgstr ""
 
-#: include/./helpers/helpers_api.php:555
+#: include/./helpers/helpers_api.php:559
 msgid "Right to left"
 msgstr ""
 
-#: include/./helpers/helpers_api.php:556
+#: include/./helpers/helpers_api.php:560
 msgid "Appear from center"
 msgstr ""
 
-#: include/./helpers/helpers_api.php:561
+#: include/./helpers/helpers_api.php:565
 msgid ""
 "Select type of animation for element to be animated when it \"enters\" the "
 "browsers viewport (Note: works only in modern browsers)."
@@ -8679,72 +8679,72 @@ msgstr ""
 msgid "Simplify controls"
 msgstr ""
 
-#: include/./params/css_editor/css_editor.php:139
-#: include/./params/css_editor/css_editor.php:165
+#: include/./params/css_editor/css_editor.php:140
+#: include/./params/css_editor/css_editor.php:166
 msgid "Theme defaults"
 msgstr ""
 
-#: include/./params/css_editor/css_editor.php:141
+#: include/./params/css_editor/css_editor.php:142
 msgid "solid"
 msgstr ""
 
-#: include/./params/css_editor/css_editor.php:142
+#: include/./params/css_editor/css_editor.php:143
 msgid "dotted"
 msgstr ""
 
-#: include/./params/css_editor/css_editor.php:143
+#: include/./params/css_editor/css_editor.php:144
 msgid "dashed"
 msgstr ""
 
-#: include/./params/css_editor/css_editor.php:144
+#: include/./params/css_editor/css_editor.php:145
 msgid "none"
 msgstr ""
 
-#: include/./params/css_editor/css_editor.php:145
+#: include/./params/css_editor/css_editor.php:146
 msgid "hidden"
 msgstr ""
 
-#: include/./params/css_editor/css_editor.php:146
+#: include/./params/css_editor/css_editor.php:147
 msgid "double"
 msgstr ""
 
-#: include/./params/css_editor/css_editor.php:147
+#: include/./params/css_editor/css_editor.php:148
 msgid "groove"
 msgstr ""
 
-#: include/./params/css_editor/css_editor.php:148
+#: include/./params/css_editor/css_editor.php:149
 msgid "ridge"
 msgstr ""
 
-#: include/./params/css_editor/css_editor.php:149
+#: include/./params/css_editor/css_editor.php:150
 msgid "inset"
 msgstr ""
 
-#: include/./params/css_editor/css_editor.php:150
+#: include/./params/css_editor/css_editor.php:151
 msgid "outset"
 msgstr ""
 
-#: include/./params/css_editor/css_editor.php:151
+#: include/./params/css_editor/css_editor.php:152
 msgid "initial"
 msgstr ""
 
-#: include/./params/css_editor/css_editor.php:152
+#: include/./params/css_editor/css_editor.php:153
 msgid "inherit"
 msgstr ""
 
-#: include/./params/css_editor/css_editor.php:167
+#: include/./params/css_editor/css_editor.php:168
 msgid "Cover"
 msgstr ""
 
-#: include/./params/css_editor/css_editor.php:168
+#: include/./params/css_editor/css_editor.php:169
 msgid "Contain"
 msgstr ""
 
-#: include/./params/css_editor/css_editor.php:169
+#: include/./params/css_editor/css_editor.php:170
 msgid "No Repeat"
 msgstr ""
 
-#: include/./params/css_editor/css_editor.php:170
+#: include/./params/css_editor/css_editor.php:171
 msgid "Repeat"
 msgstr ""
 
@@ -8830,15 +8830,15 @@ msgstr ""
 msgid "Uncategorized"
 msgstr ""
 
-#: include/./params/loop/loop.php:26
+#: include/./params/loop/loop.php:31
 msgid "Build query"
 msgstr ""
 
-#: include/./params/loop/loop.php:326
+#: include/./params/loop/loop.php:331
 msgid "Post count"
 msgstr ""
 
-#: include/./params/loop/loop.php:334
+#: include/./params/loop/loop.php:339
 msgid "Individual posts/pages"
 msgstr ""
 
@@ -8867,7 +8867,7 @@ msgstr ""
 msgid "Add row"
 msgstr ""
 
-#: include/./params/vc_grid_element/vc_grid_element.php:263
+#: include/./params/vc_grid_element/vc_grid_element.php:264
 msgid "Drag to reorder"
 msgstr ""
 
@@ -8937,11 +8937,11 @@ msgstr ""
 msgid "%s/12 width"
 msgstr ""
 
-#: include/./params/vc_grid_item/editor/popups/class-vc-templates-editor-grid-item.php:158
+#: include/./params/vc_grid_item/editor/popups/class-vc-templates-editor-grid-item.php:157
 msgid "Grid Templates"
 msgstr ""
 
-#: include/./params/vc_grid_item/editor/popups/class-vc-templates-editor-grid-item.php:177
+#: include/./params/vc_grid_item/editor/popups/class-vc-templates-editor-grid-item.php:176
 msgid "Custom Grid Templates"
 msgstr ""
 
@@ -9188,7 +9188,7 @@ msgstr ""
 #: include/./params/vc_grid_item/templates.php:57
 #: include/./params/vc_grid_item/templates.php:77
 #: include/./params/vc_grid_item/templates.php:85
-#: include/./templates/shortcodes/post_block/_item.php:36
+#: include/./templates/shortcodes/post_block/_item.php:27
 msgid "Read more"
 msgstr ""
 
@@ -9356,17 +9356,17 @@ msgstr ""
 msgid "URL"
 msgstr ""
 
-#: include/./templates/editors/backend_editor.tpl.php:54
-#: include/./templates/editors/vc_ui-template-preview.tpl.php:73
+#: include/./templates/editors/backend_editor.tpl.php:56
+#: include/./templates/editors/vc_ui-template-preview.tpl.php:82
 #: include/./templates/params/vc_grid_item/editor/vc_grid_item_editor.tpl.php:18
-#: include/./templates/params/vc_grid_item/editor/vc_ui-template-preview.tpl.php:82
+#: include/./templates/params/vc_grid_item/editor/vc_ui-template-preview.tpl.php:84
 msgid "Loading, please wait..."
 msgstr ""
 
-#: include/./templates/editors/backend_editor.tpl.php:56
-#: include/./templates/editors/vc_ui-template-preview.tpl.php:74
+#: include/./templates/editors/backend_editor.tpl.php:58
+#: include/./templates/editors/vc_ui-template-preview.tpl.php:83
 #: include/./templates/params/vc_grid_item/editor/vc_grid_item_editor.tpl.php:20
-#: include/./templates/params/vc_grid_item/editor/vc_ui-template-preview.tpl.php:83
+#: include/./templates/params/vc_grid_item/editor/vc_ui-template-preview.tpl.php:85
 msgid "Crunching..."
 msgstr ""
 
@@ -9387,13 +9387,13 @@ msgstr ""
 msgid "My Elements"
 msgstr ""
 
-#: include/./templates/editors/partials/backend_controls.tpl.php:18
-#: include/./templates/editors/partials/frontend_controls.tpl.php:13
-#: include/./templates/editors/partials/frontend_controls.tpl.php:35
-#: include/./templates/editors/partials/frontend_controls.tpl.php:68
-#: include/./templates/editors/partials/frontend_controls.tpl.php:92
-#: include/./templates/editors/partials/frontend_controls.tpl.php:123
-#: include/./templates/editors/partials/frontend_controls.tpl.php:150
+#: include/./templates/editors/partials/backend_controls.tpl.php:16
+#: include/./templates/editors/partials/frontend_controls.tpl.php:14
+#: include/./templates/editors/partials/frontend_controls.tpl.php:36
+#: include/./templates/editors/partials/frontend_controls.tpl.php:69
+#: include/./templates/editors/partials/frontend_controls.tpl.php:93
+#: include/./templates/editors/partials/frontend_controls.tpl.php:124
+#: include/./templates/editors/partials/frontend_controls.tpl.php:151
 #: include/./templates/editors/partials/frontend_controls.tpl.php:185
 #: include/./templates/editors/partials/frontend_controls.tpl.php:210
 #: include/./templates/editors/partials/frontend_controls.tpl.php:247
@@ -9402,31 +9402,31 @@ msgstr ""
 msgid "Drag to move %s"
 msgstr ""
 
-#: include/./templates/editors/partials/backend_controls.tpl.php:31
+#: include/./templates/editors/partials/backend_controls.tpl.php:27
 #: include/./templates/editors/partials/backend_controls_tab.tpl.php:20
-#: include/./templates/editors/partials/frontend_controls.tpl.php:44
-#: include/./templates/editors/partials/frontend_controls.tpl.php:78
-#: include/./templates/editors/partials/frontend_controls.tpl.php:102
-#: include/./templates/editors/partials/frontend_controls.tpl.php:160
+#: include/./templates/editors/partials/frontend_controls.tpl.php:45
+#: include/./templates/editors/partials/frontend_controls.tpl.php:79
+#: include/./templates/editors/partials/frontend_controls.tpl.php:103
+#: include/./templates/editors/partials/frontend_controls.tpl.php:161
 #: include/./templates/editors/partials/frontend_controls.tpl.php:220
 #: include/./templates/editors/partials/frontend_controls.tpl.php:286
 #, php-format
 msgid "Prepend to %s"
 msgstr ""
 
-#: include/./templates/editors/partials/frontend_controls.tpl.php:57
-#: include/./templates/editors/partials/frontend_controls.tpl.php:112
-#: include/./templates/editors/partials/frontend_controls.tpl.php:173
+#: include/./templates/editors/partials/frontend_controls.tpl.php:58
+#: include/./templates/editors/partials/frontend_controls.tpl.php:113
+#: include/./templates/editors/partials/frontend_controls.tpl.php:174
 #: include/./templates/editors/partials/frontend_controls.tpl.php:236
 #: include/./templates/editors/partials/frontend_controls.tpl.php:305
 #, php-format
 msgid "Append to %s"
 msgstr ""
 
-#: include/./templates/editors/partials/frontend_controls.tpl.php:87
-#: include/./templates/editors/partials/frontend_controls.tpl.php:105
-#: include/./templates/editors/partials/frontend_controls.tpl.php:145
-#: include/./templates/editors/partials/frontend_controls.tpl.php:166
+#: include/./templates/editors/partials/frontend_controls.tpl.php:88
+#: include/./templates/editors/partials/frontend_controls.tpl.php:106
+#: include/./templates/editors/partials/frontend_controls.tpl.php:146
+#: include/./templates/editors/partials/frontend_controls.tpl.php:167
 #: include/./templates/editors/partials/frontend_controls.tpl.php:205
 #: include/./templates/editors/partials/frontend_controls.tpl.php:229
 #: include/./templates/editors/partials/frontend_controls.tpl.php:270
@@ -9435,11 +9435,11 @@ msgstr ""
 msgid "Show %s controls"
 msgstr ""
 
-#: include/./templates/editors/partials/frontend_controls.tpl.php:133
+#: include/./templates/editors/partials/frontend_controls.tpl.php:134
 msgid "Change layout"
 msgstr ""
 
-#: include/./templates/editors/partials/frontend_controls.tpl.php:136
+#: include/./templates/editors/partials/frontend_controls.tpl.php:137
 #: include/./templates/editors/partials/frontend_controls.tpl.php:196
 #: include/./templates/editors/partials/frontend_controls.tpl.php:258
 #, php-format
@@ -9469,15 +9469,15 @@ msgstr ""
 msgid "Enter element template title."
 msgstr ""
 
-#: include/./templates/editors/partials/settings_presets_popup.tpl.php:15
+#: include/./templates/editors/partials/settings_presets_popup.tpl.php:16
 msgid "Save as template"
 msgstr ""
 
-#: include/./templates/editors/partials/settings_presets_popup.tpl.php:24
+#: include/./templates/editors/partials/settings_presets_popup.tpl.php:25
 msgid "Save as Element"
 msgstr ""
 
-#: include/./templates/editors/partials/settings_presets_popup.tpl.php:35
+#: include/./templates/editors/partials/settings_presets_popup.tpl.php:36
 msgid "Untitled"
 msgstr ""
 
@@ -9545,7 +9545,7 @@ msgid "Exit Template Library"
 msgstr ""
 
 #: include/./templates/editors/popups/shared-templates/category.tpl.php:28
-#: include/./templates/pages/vc-settings/tab.php:115
+#: include/./templates/pages/vc-settings/tab.php:111
 msgid "Activate WPBakery Page Builder"
 msgstr ""
 
@@ -9643,23 +9643,23 @@ msgstr ""
 msgid "Delete element"
 msgstr ""
 
-#: include/./templates/editors/popups/vc_ui-panel-row-layout.tpl.php:10
+#: include/./templates/editors/popups/vc_ui-panel-row-layout.tpl.php:11
 msgid "Row Layout"
 msgstr ""
 
-#: include/./templates/editors/popups/vc_ui-panel-row-layout.tpl.php:19
+#: include/./templates/editors/popups/vc_ui-panel-row-layout.tpl.php:20
 msgid "Row layout"
 msgstr ""
 
-#: include/./templates/editors/popups/vc_ui-panel-row-layout.tpl.php:30
+#: include/./templates/editors/popups/vc_ui-panel-row-layout.tpl.php:28
 msgid "Select row layout from predefined options."
 msgstr ""
 
-#: include/./templates/editors/popups/vc_ui-panel-row-layout.tpl.php:33
+#: include/./templates/editors/popups/vc_ui-panel-row-layout.tpl.php:31
 msgid "Enter custom layout for your row"
 msgstr ""
 
-#: include/./templates/editors/popups/vc_ui-panel-row-layout.tpl.php:38
+#: include/./templates/editors/popups/vc_ui-panel-row-layout.tpl.php:36
 msgid ""
 "Change particular row layout manually by specifying number of columns and "
 "their size value."
@@ -9788,7 +9788,7 @@ msgstr ""
 msgid "Template"
 msgstr ""
 
-#: include/./templates/pages/vc-settings/tab-vc-roles.php:19
+#: include/./templates/pages/vc-settings/tab-vc-roles.php:15
 msgid ""
 "Control user group role access to the features and options of WPBakery Page "
 "Builder - manage WordPress default and custom roles."
@@ -9801,29 +9801,29 @@ msgid ""
 "access to template library."
 msgstr ""
 
-#: include/./templates/pages/vc-settings/tab.php:44
+#: include/./templates/pages/vc-settings/tab.php:40
 msgid "Guide tours"
 msgstr ""
 
-#: include/./templates/pages/vc-settings/tab.php:48
+#: include/./templates/pages/vc-settings/tab.php:44
 msgid "Done"
 msgstr ""
 
-#: include/./templates/pages/vc-settings/tab.php:48
+#: include/./templates/pages/vc-settings/tab.php:44
 msgid "Reset"
 msgstr ""
 
-#: include/./templates/pages/vc-settings/tab.php:51
+#: include/./templates/pages/vc-settings/tab.php:47
 msgid ""
 "Guide tours are shown in VC editors to help you to start working with "
 "editors. You can see them again by clicking button above."
 msgstr ""
 
-#: include/./templates/pages/vc-settings/tab.php:74
+#: include/./templates/pages/vc-settings/tab.php:70
 msgid "Restore Default"
 msgstr ""
 
-#: include/./templates/pages/vc-settings/tab.php:83
+#: include/./templates/pages/vc-settings/tab.php:79
 msgid ""
 "You have activated WPBakery Page Builder version which allows you to access "
 "all the customer benefits. Thank you for choosing WPBakery Page Builder as "
@@ -9831,11 +9831,11 @@ msgid ""
 "WordPress site you can deactivate your license below."
 msgstr ""
 
-#: include/./templates/pages/vc-settings/tab.php:94
+#: include/./templates/pages/vc-settings/tab.php:90
 msgid "Deactivate WPBakery Page Builder"
 msgstr ""
 
-#: include/./templates/pages/vc-settings/tab.php:104
+#: include/./templates/pages/vc-settings/tab.php:100
 #, php-format
 msgid ""
 "In order to receive all benefits of WPBakery Page Builder, you need to "
@@ -9844,24 +9844,24 @@ msgid ""
 "access to %1$stemplate library%2$s and %1$sofficial support.%2$s"
 msgstr ""
 
-#: include/./templates/pages/vc-settings/tab.php:123
+#: include/./templates/pages/vc-settings/tab.php:119
 #, php-format
 msgid ""
 "Don't have direct license yet? %sPurchase WPBakery Page Builder license%s."
 msgstr ""
 
-#: include/./templates/pages/vc-welcome/index.php:8
+#: include/./templates/pages/vc-welcome/index.php:9
 #, php-format
 msgid "Welcome to WPBakery Page Builder %s"
 msgstr ""
 
-#: include/./templates/pages/vc-welcome/index.php:11
+#: include/./templates/pages/vc-welcome/index.php:12
 msgid ""
 "Congratulations! You are about to use most powerful time saver for WordPress "
 "ever - page builder plugin with Frontend and Backend editors by WPBakery."
 msgstr ""
 
-#: include/./templates/pages/vc-welcome/index.php:14
+#: include/./templates/pages/vc-welcome/index.php:15
 #, php-format
 msgid "Version %s"
 msgstr ""
@@ -10061,7 +10061,7 @@ msgstr ""
 #, php-format
 msgid ""
 "Before applying for support please make sure you understand the rules of "
-"support and go through all steps described and listed in %sSupport Policy$s "
+"support and go through all steps described and listed in %sSupport Policy%s "
 "in order to get your issues solved as soon as possible."
 msgstr ""
 
@@ -10114,7 +10114,7 @@ msgstr ""
 msgid "View all posts in %s"
 msgstr ""
 
-#: include/./templates/shortcodes/post_block/_item.php:31
+#: include/./templates/shortcodes/post_block/_item.php:24
 #: include/./templates/shortcodes/vc_posts_slider.php:170
 #, php-format
 msgid "Permalink to %s"

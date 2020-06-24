@@ -44,12 +44,15 @@ return array(
 		),
 		array(
 			'type' => 'dropdown',
-			'heading' => esc_html__( 'Video aspect ration', 'js_composer' ),
+			'heading' => esc_html__( 'Video aspect ratio', 'js_composer' ),
 			'param_name' => 'el_aspect',
 			'value' => array(
 				'16:9' => '169',
 				'4:3' => '43',
 				'2.35:1' => '235',
+				'9:16' => '916',
+				'3:4' => '34',
+				'1:2.35' => '1235',
 			),
 			'description' => esc_html__( 'Select video aspect ratio.', 'js_composer' ),
 		),

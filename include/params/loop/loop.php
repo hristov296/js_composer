@@ -891,7 +891,13 @@ class VcLoopSuggestions {
 		$args = ! empty( $query ) ? array(
 			's' => $query,
 			'post_type' => 'any',
-		) : array( 'post_type' => 'any' );
+			'no_found_rows' => true,
+			'orderby' => 'relevance',
+		) : array(
+			'post_type' => 'any',
+			'no_found_rows' => true,
+			'orderby' => 'relevance',
+		);
 		if ( ! empty( $this->exclude ) ) {
 			$args['exclude'] = $this->exclude;
 		}

@@ -1061,7 +1061,7 @@ function vc_camel_case( $value ) {
 function vc_icon_element_fonts_enqueue( $font ) {
 	switch ( $font ) {
 		case 'fontawesome':
-			wp_enqueue_style( 'font-awesome' );
+			wp_enqueue_style( 'vc_font_awesome_5' );
 			break;
 		case 'openiconic':
 			wp_enqueue_style( 'vc_openiconic' );
@@ -1313,7 +1313,18 @@ function vc_is_responsive_disabled() {
  * @throws \Exception
  */
 function vc_do_shortcode( $atts, $content = null, $tag = null ) {
-	return Vc_Shortcodes_Manager::getInstance()->getElementClass( $tag )->output( $atts, $content );
+	ob_start();
+	echo Vc_Shortcodes_Manager::getInstance()->getElementClass( $tag )->output( $atts, $content );
+	$content = ob_get_clean();
+	// @codingStandardsIgnoreStart
+	global $wp_embed;
+	if ( is_object( $wp_embed ) ) {
+		$content = $wp_embed->run_shortcode( $content );
+		$content = $wp_embed->autoembed( $content );
+		// @codingStandardsIgnoreEnd
+	}
+
+	return $content;
 }
 
 /**

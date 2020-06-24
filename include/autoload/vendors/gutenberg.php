@@ -37,7 +37,7 @@ function vc_gutenberg_disable_render_callback() {
 	?>
 	<label>
 		<input type="checkbox"<?php echo esc_attr( $checked ) ? ' checked' : ''; ?> value="1"
-				name="<?php echo 'wpb_js_gutenberg_disable' ?>">
+		       name="<?php echo 'wpb_js_gutenberg_disable' ?>">
 		<?php esc_html_e( 'Disable', 'js_composer' ) ?>
 	</label><br/>
 	<p
@@ -51,14 +51,49 @@ function vc_gutenberg_disable_render_callback() {
  * @return bool
  */
 function vc_gutenberg_check_disabled( $result, $postType ) {
-	if ( 'wpb_gutenberg_param' === $postType ) {
-		return true;
-	}
-	if ( ! isset( $_GET['vcv-gutenberg-editor'] ) && ( get_option( 'wpb_js_gutenberg_disable' ) || vc_is_wpb_content() || isset( $_GET['classic-editor'] ) ) ) {
-		return false;
+	global $pagenow;
+	if ( $pagenow === 'post.php' || $pagenow === 'post-new.php' ) {
+		// we are in single post type editing
+		if ( isset( $_GET['classic-editor'] ) && ! isset( $_GET['classic-editor__forget'] ) ) {
+			return false;
+		}
+		if ( isset( $_GET['classic-editor__forget'] ) ) {
+			return true;
+		}
+		if ( 'wpb_gutenberg_param' === $postType ) {
+			return true;
+		}
+		if ( ! isset( $_GET['vcv-gutenberg-editor'] ) && ( get_option( 'wpb_js_gutenberg_disable' ) || vc_is_wpb_content() || isset( $_GET['classic-editor'] ) ) ) {
+			return false;
+		}
 	}
 
 	return $result;
+}
+
+/**
+ * @param $result
+ * @param $postType
+ * @return bool
+ */
+function vc_gutenberg_check_disabled_regular( $editors, $postType ) {
+	if ( 'wpb_gutenberg_param' === $postType ) {
+		$editors['gutenberg_editor'] = false;
+	}
+	if ( ! isset( $_GET['vcv-gutenberg-editor'] ) && ( get_option( 'wpb_js_gutenberg_disable' ) || vc_is_wpb_content() || isset( $_GET['classic-editor'] ) ) ) {
+		$editors['gutenberg_editor'] = false;
+		$editors['classic_editor'] = false;
+	}
+
+	return $editors;
+}
+
+function vc_classic_editor_post_states( $state ) {
+	if ( vc_is_wpb_content() ) {
+		unset( $state['classic-editor-plugin'] );
+	}
+
+	return $state;
 }
 
 /**
@@ -80,7 +115,9 @@ function vc_gutenberg_map() {
 	}
 }
 
+add_filter( 'classic_editor_enabled_editors_for_post', 'vc_gutenberg_check_disabled_regular', 10, 2 );
 add_filter( 'use_block_editor_for_post_type', 'vc_gutenberg_check_disabled', 10, 2 );
+add_filter( 'display_post_states', 'vc_classic_editor_post_states', 11, 2 );
 add_action( 'vc_settings_tab-general', 'vc_gutenberg_add_settings' );
 add_action( 'init', 'vc_gutenberg_map' );
 
