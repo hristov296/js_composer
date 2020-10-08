@@ -1434,8 +1434,7 @@ function wpb_remove_custom_html( $content ) {
 }
 
 function wpb_remove_custom_onclick( $match ) {
-	$atts = shortcode_parse_atts( $match[3] );
-	if ( isset( $atts['custom_onclick'] ) || isset( $atts['custom_onclick_code'] ) ) {
+	if ( strpos( $match[3], 'custom_onclick' ) !== false ) {
 		return '';
 	}
 

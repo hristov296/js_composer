@@ -1,3 +1,8 @@
+24.09.2020 - ver 6.4.1
+  - Fix: Role manager unfiltered html access improved
+  - Fix: Role manager Frontend editor access improved
+  - Update: German translation updated
+
 11.09.2020 - ver 6.4.0
   - New: Rank Math SEO compatibility introduced
   - New: Option to exclude categories in the loop parameters

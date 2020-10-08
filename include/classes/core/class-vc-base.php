@@ -67,9 +67,7 @@ class Vc_Base {
 	 */
 	public function init() {
 		do_action( 'vc_before_init_base' );
-		if ( is_admin() ) {
-			$this->postAdmin()->init();
-		}
+		$this->postAdmin()->init();
 		add_filter( 'body_class', array(
 			$this,
 			'bodyClass',
